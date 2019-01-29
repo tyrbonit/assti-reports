@@ -1,0 +1,887 @@
+<?xml version="1.0"?>
+<ss:Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+	<x:ExcelWorkbook>
+		<x:ProtectStructure>False</x:ProtectStructure>
+		<x:ActiveSheet>0</x:ActiveSheet>
+		<x:HideWorkbookTabs/>
+	</x:ExcelWorkbook>
+	<ss:Styles>
+		<ss:Style ss:ID="Default">
+			<ss:Alignment ss:Horizontal="Automatic" ss:Rotate="0.0" ss:Vertical="Bottom" ss:ReadingOrder="Context"/>
+			<ss:Borders>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="Automatic" ss:Bold="0" ss:Italic="0" ss:Underline="None"/>
+			<ss:Interior ss:Color="Automatic" ss:Pattern="None"/>
+			<ss:NumberFormat ss:Format="General"/>
+			<ss:Protection ss:Protected="1"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCF30E270">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="8" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="0"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0151E270">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="8" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0561E270">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="8" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="0"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0671E270">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="8" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8AA64640">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="8"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="0"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCC10E270">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="8"/>
+			<ss:Interior/>
+		</ss:Style>
+	</ss:Styles>
+	<c:ComponentOptions>
+		<c:Label>
+			<c:Caption>Электронная таблица Microsoft Office</c:Caption>
+		</c:Label>
+		<c:SpreadsheetAutoFit/>
+		<c:MaxHeight>493</c:MaxHeight>
+		<c:MaxWidth>1020</c:MaxWidth>
+		<c:NextSheetNumber>4</c:NextSheetNumber>
+	</c:ComponentOptions>
+	<x:WorkbookOptions>
+		<c:OWCVersion>10.0.0.5605         </c:OWCVersion>
+	</x:WorkbookOptions>
+	<ss:Worksheet ss:Name="Данные">
+		<x:WorksheetOptions>
+			<x:Selected/>
+			<x:ViewableRange>R1:R262144</x:ViewableRange>
+			<x:Selection>R66C2</x:Selection>
+			<x:TopRowVisible>45</x:TopRowVisible>
+			<x:LeftColumnVisible>0</x:LeftColumnVisible>
+			<x:ProtectContents>False</x:ProtectContents>
+			<x:Unsynced/>
+		</x:WorksheetOptions>
+		<c:WorksheetOptions>
+		</c:WorksheetOptions>
+		<ss:Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="65" ss:DefaultColumnWidth="48.0" ss:DefaultRowHeight="12.75">
+			<ss:Column ss:Index="2" ss:Width="98.25" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Index="4" ss:Width="82.5" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Index="6" ss:Width="53.25" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Index="10" ss:Width="64.5" ss:AutoFitWidth="0"/>
+			<ss:Row ss:Index="2" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wcCF30E270">
+					<ss:Data ss:Type="String">$$tag116694379368</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0151E270"/>
+				<ss:Cell ss:StyleID="wc0151E270"/>
+				<ss:Cell ss:StyleID="wc0151E270">
+					<ss:Data ss:Type="String">Температура подающий трубопровод  БУ-1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694379700</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Массовый расход теплоносителя подающий трубопровод БУ-1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694379954</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Тепловая мощность по трубопроводу подающий трубопровод  БУ-1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694380573</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Масса теплоносителя нарастающим итогом подающий трубопровод  БУ-1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694380859</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Тепловая энергия нарастающим итогом подающий трубопровод  БУ-1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694381481</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Массовый расход утечек БУ-1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694381737</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Отпускаемая тепловая мощность по магистрали БУ-1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694381971</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Масса  утечек по магистрали нарастающим итогом. БУ-1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694382553</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Отпускаемая  тепловая энергия по магистрали нарастающим итогом БУ-1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694382823</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Температура обратный трубопровод БУ-1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694383428</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Массовый расход теплоносителя обратный трубопровод БУ-1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694383732</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Тепловая мощность по трубопроводу обратный трубопровод БУ-1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694383920</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Масса теплоносителя нарастающим итогом обратный трубопровод БУ-1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694384490</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Тепловая энергия нарастающим итогом обратный трубопровод БУ-1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694384803</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Массовый расход  утечек БУ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694385403</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Отпускаемая тепловая мощность по магистрали БУ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694385685</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Масса  утечек по магистрали нарастающим итогом. БУ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694385928</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Отпускаемая  тепловая энергия по магистрали нарастающим итогом БУ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694386581</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Температура подающий трубопровод  БУ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694386828</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Массовый расход теплоносителя подающий трубопровод  БУ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694387465</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Тепловая мощность по трубопроводу подающий трубопровод  БУ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694387734</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Масса теплоносителя нарастающим итогом подающий трубопровод  БУ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694388107</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Тепловая энергия нарастающим итогом подающий трубопровод  БУ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694388628</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Температура обратный трубопровод БУ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694388981</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Массовый расход теплоносителя обратный трубопровод БУ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694389570</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Тепловая мощность по трубопроводу обратный трубопровод БУ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694389862</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Масса теплоносителя нарастающим итогом обратный трубопровод БУ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc0561E270">
+					<ss:Data ss:Type="String">$$tag116694390451</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0671E270">
+					<ss:Data ss:Type="String">Тепловая энергия нарастающим итогом обратный трубопровод БУ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Index="34" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301873416</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Температура подающий трубопровод  гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301873563</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Массовый расход теплоносителя подающий трубопровод  гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301873686</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Тепловая мощность по трубопроводу подающий трубопровод  гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301873816</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Масса теплоносителя нарастающим итогом подающий трубопровод  гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301873961</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Тепловая энергия нарастающим итогом подающий трубопровод  гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301874452</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Массовый расход утечек гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301874574</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Отпускаемая тепловая мощность по магистрали гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301874693</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Масса  утечек по магистрали нарастающим итогом. гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301874814</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Отпускаемая  тепловая энергия по магистрали нарастающим итогом гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301874903</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Температура обратный трубопровод гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301875250</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Массовый расход теплоносителя обратный трубопровод гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301875413</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Тепловая мощность по трубопроводу обратный трубопровод гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301875547</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Масса теплоносителя нарастающим итогом обратный трубопровод гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301875727</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Тепловая энергия нарастающим итогом обратный трубопровод гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301875872</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Массовый расход  утечек промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301876005</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Отпускаемая тепловая мощность по магистрали промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301876321</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Масса  утечек по магистрали нарастающим итогом. промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301876411</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Отпускаемая  тепловая энергия по магистрали нарастающим итогом промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301876521</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Температура подающий трубопровод  промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301876678</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Массовый расход теплоносителя подающий трубопровод  промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301876760</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Тепловая мощность по трубопроводу подающий трубопровод  промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301876844</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Масса теплоносителя нарастающим итогом подающий трубопровод  промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301876964</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Тепловая энергия нарастающим итогом подающий трубопровод  промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301877139</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Температура обратный трубопровод промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301877458</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Массовый расход теплоносителя обратный трубопровод промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301877558</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Тепловая мощность по трубопроводу обратный трубопровод промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301877633</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Масса теплоносителя нарастающим итогом обратный трубопровод промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301877799</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Тепловая энергия нарастающим итогом обратный трубопровод промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301877877</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Давление подающий трубопровод гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301877978</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Давление обратный трубопровод гл. корпус</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301878330</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Давление подающий трубопровод промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8AA64640">
+					<ss:Data ss:Type="String">$$tag114301878422</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270"/>
+				<ss:Cell ss:StyleID="wcCC10E270">
+					<ss:Data ss:Type="String">Давление обратный трубопровод промзона</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+		</ss:Table>
+	</ss:Worksheet>
+	<o:DocumentProperties>
+		<o:Version>10.2625</o:Version>
+	</o:DocumentProperties>
+	<o:OfficeDocumentSettings>
+		<o:DownloadComponents/>
+		<o:LocationOfComponents HRef="file:///G:\Office\MS_FRONT_OFFICE\"/>
+	</o:OfficeDocumentSettings></ss:Workbook>

@@ -1,0 +1,2109 @@
+<?xml version="1.0"?>
+<ss:Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+	<x:ExcelWorkbook>
+		<x:ProtectStructure>False</x:ProtectStructure>
+		<x:ActiveSheet>0</x:ActiveSheet>
+		<x:HideWorkbookTabs/>
+	</x:ExcelWorkbook>
+	<ss:Styles>
+		<ss:Style ss:ID="Default">
+			<ss:Alignment ss:Horizontal="Automatic" ss:Rotate="0.0" ss:Vertical="Bottom" ss:ReadingOrder="Context"/>
+			<ss:Borders>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="Automatic" ss:Bold="0" ss:Italic="0" ss:Underline="None"/>
+			<ss:Interior ss:Color="Automatic" ss:Pattern="None"/>
+			<ss:NumberFormat ss:Format="General"/>
+			<ss:Protection ss:Protected="1"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8CEBDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="9" ss:Color="#003366" ss:Bold="1" ss:Italic="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8DFBDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="9" ss:Color="#003366" ss:Bold="1" ss:Italic="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8E0CDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="9" ss:Color="#000080" ss:Bold="1" ss:Italic="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8F1CDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="9" ss:Color="#000080" ss:Bold="1" ss:Italic="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc01ECDC40">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc02FCDC40">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc841DDC40">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc413DDC40">
+			<ss:Alignment ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000080" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc424DDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000080" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc435DDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF6600" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc446DDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#0000FF" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc457DDC40">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#003366" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#003366" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#003366" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#003366" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc468DDC40">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc479DDC40">
+			<ss:Alignment ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF99CC" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc06ADDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="0.0000"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0175DC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="0.0000"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc454EDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="0.000"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCE5EDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="0.000"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc470EDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc061EDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4897DC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF6600" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC0B7DC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#0000FF" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4CC7DC40">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc44A8DC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF6600" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc84B8DC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#0000FF" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc85C8DC40">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0C3F7550">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0A7D7550">
+			<ss:Alignment ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000080" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC88D7550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000080" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8F2E7550">
+			<ss:Alignment ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000080" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4E3E7550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000080" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc865E7550">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF0000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc819E7550">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF0000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0BAE7550">
+			<ss:Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000080" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC9BE7550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000080" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc88CE7550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF0000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc47DE7550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF0000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8EEE7550">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0BBEDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCEFE7550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8A9EDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCAAEDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc841F7550">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc852F7550">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc425F7550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc876F7550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0A7F7550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc029F7550">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc85AF7550">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF99CC" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc09BF7550">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF0000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4CDF7550">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF0000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4F8D4550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0E9D4550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCCAD4550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc81EF4550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc002D4550">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCE2D4550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc814D4550">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF99CC" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc024A7550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc83284550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc462B4550">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc82934550">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF99CC" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc41A34550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0FFEDC40">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC679DC40">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc41FC7550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc821FDC40">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCDEFDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8AA0DC30">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0A13DC30">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mc4662DC300000000042E2DC30">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="mc4C71DC30CC91DC304DB1DC30">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="mc0E01DC30CCDDDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="mcCE20DC304F40DC30CF60DC30">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mc0C0E75504C1E7550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mc845D7550C46D7550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mc092ADC40C42EDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="mc0749DC404759DC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mc0088DC40CE88DC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Color="#808080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#808080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF6600" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="mcCBEEDC40CCDDDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="mcC0797550C0797550">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="mcCFBCDC400000000000DCDC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mcCABADC404BDADC40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+	</ss:Styles>
+	<c:ComponentOptions>
+		<c:Label>
+			<c:Caption>Электронная таблица Microsoft Office</c:Caption>
+		</c:Label>
+		<c:SpreadsheetAutoFit/>
+		<c:MaxHeight>480</c:MaxHeight>
+		<c:MaxWidth>1020</c:MaxWidth>
+		<c:NextSheetNumber>4</c:NextSheetNumber>
+	</c:ComponentOptions>
+	<x:WorkbookOptions>
+		<c:OWCVersion>10.0.0.5608         </c:OWCVersion>
+	</x:WorkbookOptions>
+	<ss:Worksheet ss:Name="Данные">
+		<x:WorksheetOptions>
+			<x:Selected/>
+			<x:ViewableRange>R1:R262144</x:ViewableRange>
+			<x:Selection>R22C7</x:Selection>
+			<x:TopRowVisible>0</x:TopRowVisible>
+			<x:LeftColumnVisible>0</x:LeftColumnVisible>
+			<x:ProtectContents>False</x:ProtectContents>
+			<x:Unsynced/>
+		</x:WorksheetOptions>
+		<c:WorksheetOptions>
+		</c:WorksheetOptions>
+		<ss:Table ss:ExpandedColumnCount="16" ss:ExpandedRowCount="68" ss:DefaultColumnWidth="48.0" ss:DefaultRowHeight="12.75">
+			<ss:Column ss:Width="44.25" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="120.75" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="71.25" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Index="7" ss:Width="93.0" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="54.75" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="30.0" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Span="6" ss:Hidden="1" ss:Width="0.0" ss:AutoFitWidth="0"/>
+			<ss:Row ss:Index="2" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:MergeAcross="4" ss:StyleID="mcCABADC404BDADC40">
+					<ss:Data ss:Type="String">Массовый баланс</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="10" ss:StyleID="wc8CEBDC40">
+					<ss:Data ss:Type="String">Наименование</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8DFBDC40">
+					<ss:Data ss:Type="String">ед. изм</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8E0CDC40">
+					<ss:Data ss:Type="String">Прямой</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8F1CDC40">
+					<ss:Data ss:Type="String">Обратной</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:MergeDown="1" ss:StyleID="mcCFBCDC400000000000DCDC40">
+					<ss:Data ss:Type="String">Расход, т/ч</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc01ECDC40">
+					<ss:Data ss:Type="String">Поселок</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc02FCDC40" ss:Formula="=R[4]C[8]">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc01ECDC40">
+					<ss:Data ss:Type="String">БУ-1</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc841DDC40" ss:Formula="=R[21]C[6]">
+					<ss:Data ss:Type="String">$$tag113257064819</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="10" ss:StyleID="wc413DDC40">
+					<ss:Data ss:Type="String">Объёмный расход</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc424DDC40">
+					<ss:Data ss:Type="String">м3/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc435DDC40">
+					<ss:Data ss:Type="String">$$tag110525458879</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc446DDC40">
+					<ss:Data ss:Type="String">$$tag110525458900</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="3" ss:StyleID="wc01ECDC40">
+					<ss:Data ss:Type="String">Промзона</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc457DDC40">
+					<ss:Data ss:Type="String">$$tag114301876678</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc468DDC40">
+					<ss:Data ss:Type="String">БУ-2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc841DDC40" ss:Formula="=R[44]C[6]">
+					<ss:Data ss:Type="String">$$tag110421229425</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="10" ss:StyleID="wc479DDC40">
+					<ss:Data ss:Type="String">приведенная температура воды</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc424DDC40"/>
+				<ss:Cell ss:StyleID="wc06ADDC40" ss:Formula="=(R[5]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0175DC40" ss:Formula="=(R[5]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc468DDC40">
+					<ss:Data ss:Type="String">Сумма</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="1" ss:StyleID="mcC0797550C0797550" ss:Formula="=SUM(R[-2]C[1]:R[-1]C[1])">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="mcC0797550C0797550" ss:Formula="=SUM(R[-2]C[1]:R[-1]C[1])">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="10" ss:StyleID="wc479DDC40">
+					<ss:Data ss:Type="String">приведенное абсолютное давление</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc424DDC40"/>
+				<ss:Cell ss:StyleID="wc454EDC40" ss:Formula="=((R[6]C+1)/10)/22.064">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCE5EDC40" ss:Formula="=((R[6]C+1)/9.87)/22.064">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc468DDC40">
+					<ss:Data ss:Type="String">Небаланс, т/ч</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="3" ss:StyleID="mcCBEEDC40CCDDDC40" ss:Formula="=IF(R[-1]C&gt;R[-1]C[2],R[-1]C-R[-1]C[2],R[-1]C[2]-R[-1]C)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="10" ss:StyleID="wc479DDC40">
+					<ss:Data ss:Type="String">плотность воды</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc424DDC40">
+					<ss:Data ss:Type="String">кг/м3</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc470EDC40" ss:Formula="=1000/(114.332*R[-2]C-431.6382+706.5474/R[-2]C-641.9127/(POWER(R[-2]C,2))+349.4417/(POWER(R[-2]C,3))-113.8191/(POWER(R[-2]C,4))+20.5199/(POWER(R[-2]C,5))-1.578507/(POWER(R[-2]C,6))+R[-1]C*(-3.117072+6.589303/R[-2]C-5.210142/(POWER(R[-2]C,2))+1.819096/(POWER(R[-2]C,3))-0.2365448/(POWER(R[-2]C,4)))+(POWER(R[-1]C,2))*(6.417443*R[-2]C-19.84842+24.00174/R[-2]C-14.21655/(POWER(R[-2]C,2))+4.13194/(POWER(R[-2]C,3))-0.4721637/(POWER(R[-2]C,4))))">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc061EDC40" ss:Formula="=1000/(114.332*R[-2]C-431.6382+706.5474/R[-2]C-641.9127/(POWER(R[-2]C,2))+349.4417/(POWER(R[-2]C,3))-113.8191/(POWER(R[-2]C,4))+20.5199/(POWER(R[-2]C,5))-1.578507/(POWER(R[-2]C,6))+R[-1]C*(-3.117072+6.589303/R[-2]C-5.210142/(POWER(R[-2]C,2))+1.819096/(POWER(R[-2]C,3))-0.2365448/(POWER(R[-2]C,4)))+(POWER(R[-1]C,2))*(6.417443*R[-2]C-19.84842+24.00174/R[-2]C-14.21655/(POWER(R[-2]C,2))+4.13194/(POWER(R[-2]C,3))-0.4721637/(POWER(R[-2]C,4))))">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc468DDC40">
+					<ss:Data ss:Type="String">Небаланс, %</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="3" ss:StyleID="mcCBEEDC40CCDDDC40" ss:Formula="=IF(R[-2]C&gt;R[-2]C[2],R[-1]C/R[-2]C,R[-1]C/R[-2]C[2])*100">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="10" ss:StyleID="wc413DDC40">
+					<ss:Data ss:Type="String">Массовый расход</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc424DDC40">
+					<ss:Data ss:Type="String">т/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4897DC40" ss:Formula="=R[-4]C*R[-1]C/1000">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0B7DC40" ss:Formula="=R[-4]C*R[-1]C/1000">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4CC7DC40"/>
+				<ss:Cell ss:StyleID="wc4CC7DC40"/>
+				<ss:Cell ss:StyleID="wc4CC7DC40"/>
+				<ss:Cell ss:StyleID="wc4CC7DC40"/>
+				<ss:Cell ss:StyleID="wc4CC7DC40"/>
+				<ss:Cell ss:Index="10" ss:StyleID="wc413DDC40">
+					<ss:Data ss:Type="String">Разность расходов</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc424DDC40">
+					<ss:Data ss:Type="String">т/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="1" ss:StyleID="mc0088DC40CE88DC40" ss:Formula="=R[-1]C-R[-1]C[1]">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:MergeAcross="4" ss:StyleID="mcCABADC404BDADC40">
+					<ss:Data ss:Type="String">Тепловой баланс</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="10" ss:StyleID="wc413DDC40">
+					<ss:Data ss:Type="String">Температура  воды</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc424DDC40">
+					<ss:Data ss:Type="String">º С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc44A8DC40">
+					<ss:Data ss:Type="String">$$tag110525458915</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc84B8DC40">
+					<ss:Data ss:Type="String">$$tag110525458932</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:MergeDown="1" ss:StyleID="mcCFBCDC400000000000DCDC40">
+					<ss:Data ss:Type="String">Расход тепла, Гкал/ч</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc01ECDC40">
+					<ss:Data ss:Type="String">Поселок</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85C8DC40" ss:Formula="=R[2]C[8]">
+					<ss:Data ss:Type="String">$$tag110525458973</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc01ECDC40">
+					<ss:Data ss:Type="String">БУ-1</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc841DDC40" ss:Formula="=R[23]C[6]">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="10" ss:StyleID="wc413DDC40">
+					<ss:Data ss:Type="String">Разность температур</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc424DDC40">
+					<ss:Data ss:Type="String">º С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="1" ss:StyleID="mc0749DC404759DC40" ss:Formula="=R[-1]C-R[-1]C[1]">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="3" ss:StyleID="wc01ECDC40">
+					<ss:Data ss:Type="String">Промзона</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0C3F7550">
+					<ss:Data ss:Type="String">$$tag114301876005</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85C8DC40">
+					<ss:Data ss:Type="String">БУ-2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc841DDC40" ss:Formula="=R[46]C[6]">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="10" ss:StyleID="wc413DDC40">
+					<ss:Data ss:Type="String">Давление  воды</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc424DDC40">
+					<ss:Data ss:Type="String">кг/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc435DDC40">
+					<ss:Data ss:Type="String">$$tag110525458846</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc446DDC40">
+					<ss:Data ss:Type="String">$$tag110525458864</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc468DDC40">
+					<ss:Data ss:Type="String">Сумма</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="1" ss:StyleID="mcC0797550C0797550" ss:Formula="=SUM(R[-2]C[1]:R[-1]C[1])">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="mcC0797550C0797550" ss:Formula="=SUM(R[-2]C[1]:R[-1]C[1])">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="10" ss:StyleID="wc413DDC40">
+					<ss:Data ss:Type="String">Тепловая мощность</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc424DDC40">
+					<ss:Data ss:Type="String">Гкал/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="1" ss:StyleID="mc0749DC404759DC40">
+					<ss:Data ss:Type="String">$$tag110525458973</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc468DDC40">
+					<ss:Data ss:Type="String">Небаланс,Гкал/ч</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="3" ss:StyleID="mcCBEEDC40CCDDDC40" ss:Formula="=IF(R[-1]C&gt;R[-1]C[2],R[-1]C-R[-1]C[2],R[-1]C[2]-R[-1]C)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="10" ss:StyleID="wc413DDC40">
+					<ss:Data ss:Type="String">Суммарный объем прямой воды</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc424DDC40">
+					<ss:Data ss:Type="String">м3</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="1" ss:StyleID="mc092ADC40C42EDC40">
+					<ss:Data ss:Type="String">$$tag109625945092</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc468DDC40">
+					<ss:Data ss:Type="String">Небаланс, %</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="3" ss:StyleID="mcCBEEDC40CCDDDC40" ss:Formula="=IF(R[-2]C&gt;R[-2]C[2],R[-1]C/R[-2]C,R[-1]C/R[-2]C[2])*100">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="10" ss:StyleID="wc413DDC40">
+					<ss:Data ss:Type="String">Суммарный объем обратной воды</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc424DDC40">
+					<ss:Data ss:Type="String">м3</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="1" ss:StyleID="mc092ADC40C42EDC40">
+					<ss:Data ss:Type="String">$$tag109625945117</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc413DDC40">
+					<ss:Data ss:Type="String">Суммарный расход тепла</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc424DDC40">
+					<ss:Data ss:Type="String">Гкал</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="1" ss:StyleID="mc845D7550C46D7550">
+					<ss:Data ss:Type="String">$$tag110525459034</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc0A7D7550">
+					<ss:Data ss:Type="String">Температура наружнего воздуха </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC88D7550">
+					<ss:Data ss:Type="String">º С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="1" ss:StyleID="mc0C0E75504C1E7550">
+					<ss:Data ss:Type="String">$$tag110525614800</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc8F2E7550">
+					<ss:Data ss:Type="String">Температурный график</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4E3E7550">
+					<ss:Data ss:Type="String">º С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc865E7550" ss:Formula="=IF(R[-1]C&lt;=-38,110,IF(R[-1]C&gt;=10,70,((40*(R[-1]C-10))/(-48)+70)))">
+					<ss:Data ss:Type="Number">70</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc819E7550" ss:Formula="=IF(R[-1]C[-1]&lt;=-38,80,IF(R[-1]C[-1]&gt;=10,60,((20*(R[-1]C[-1]-10))/(-48)+60)))">
+					<ss:Data ss:Type="Number">60</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc0BAE7550">
+					<ss:Data ss:Type="String">Отклонение от графика</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC9BE7550">
+					<ss:Data ss:Type="String">º С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc88CE7550" ss:Formula="=R[-9]C-R[-1]C">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc47DE7550" ss:Formula="=R[-9]C-R[-1]C">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Index="22" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc8EEE7550"/>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wcCEFE7550">
+					<ss:Data ss:Type="String">Бойлерная установка - 1</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8A9EDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8A9EDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8A9EDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCAAEDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc8EEE7550"/>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">ОБ-1</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">ОБ-2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">ПБ-1</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">ПБ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc0C3F7550">
+					<ss:Data ss:Type="String">Расход СВ на бойлерную</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCAAEDC40">
+					<ss:Data ss:Type="String">т/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag113257064819</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc425F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Температура на входе в БУ</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag109877649287</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0A7F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Температура на выходе из БУ</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc029F7550">
+					<ss:Data ss:Type="String">$$tag109877649348</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0A7F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc85AF7550">
+					<ss:Data ss:Type="String">приведенная температура вход</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc09BF7550" ss:Formula="=(R[-2]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0A7F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc85AF7550">
+					<ss:Data ss:Type="String">приведенное давление вход</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4CDF7550" ss:Formula="=((R[-17]C+1)/10)/22.064">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0A7F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc85AF7550">
+					<ss:Data ss:Type="String">Энтальпия воды вход</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">кДж/кг</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4CDF7550" ss:Formula="=7809.096*R[-2]C-13868.72+12725.22/R[-2]C-6370.893/POWER(R[-2]C,2)+1595.86/POWER(R[-2]C,3)-159.9064/POWER(R[-2]C,4)+R[-1]C*(9.488789/R[-2]C)+POWER(R[-1]C,2)*(-148.1135*R[-2]C+224.3027-111.4602/R[-2]C+18.15823/POWER(R[-2]C,2))">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0A7F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc85AF7550">
+					<ss:Data ss:Type="String">приведенная температура выход</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4CDF7550" ss:Formula="=(R[-4]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0A7F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc85AF7550">
+					<ss:Data ss:Type="String">приведенное давление выход</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4CDF7550" ss:Formula="=((R[-3]C+1)/10)/22.064">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0A7F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc85AF7550">
+					<ss:Data ss:Type="String">Энтальпия воды выход</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">кДж/кг</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4CDF7550" ss:Formula="=7809.096*R[-2]C-13868.72+12725.22/R[-2]C-6370.893/POWER(R[-2]C,2)+1595.86/POWER(R[-2]C,3)-159.9064/POWER(R[-2]C,4)+R[-1]C*(9.488789/R[-2]C)+POWER(R[-1]C,2)*(-148.1135*R[-2]C+224.3027-111.4602/R[-2]C+18.15823/POWER(R[-2]C,2))">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0BBEDC40"/>
+				<ss:Cell ss:StyleID="wc0A7F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Тепловая нагрузка бойлерной</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">Гкал/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550" ss:Formula="=R[-9]C*((R[-1]C-R[-4]C)/4.1868)/1000">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4F8D4550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0E9D4550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0E9D4550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Температура СВ за бойлером</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0E9D4550">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCCAD4550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag109877649218</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag109877649173</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag109877649121</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag109877649065</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Расход пара на бойлер</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0E9D4550">
+					<ss:Data ss:Type="String">т/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc81EF4550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag109877641932</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag109877611625</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag109877611570</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag109877641768</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Температура пара в бойлере</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0E9D4550">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc81EF4550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421234257</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421234289</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421234312</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421234337</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Давление пара в бойлере</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0E9D4550">
+					<ss:Data ss:Type="String">кг/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc81EF4550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag109877641093</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag109877609809</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag109877609754</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag109877609700</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc002D4550">
+					<ss:Data ss:Type="String">Расход тепла (по пару) на бойлер</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40">
+					<ss:Data ss:Type="String">Гкал/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCE2D4550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc029F7550">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc029F7550">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc029F7550">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc029F7550">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc814D4550">
+					<ss:Data ss:Type="String">приведенная температура пара</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc024A7550"/>
+				<ss:Cell ss:StyleID="wc83284550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-3]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-3]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-3]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-3]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc82934550">
+					<ss:Data ss:Type="String">приведенная температура СВ</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc024A7550"/>
+				<ss:Cell ss:StyleID="wc41A34550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-6]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-6]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-6]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-6]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc0FFEDC40">
+					<ss:Data ss:Type="String">Расход тепла (по пару) на бойлер</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc024A7550">
+					<ss:Data ss:Type="String">Гкал/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc41A34550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=R[-6]C*((2149.17+15049.8*R[-2]C^3-38597.1*R[-2]C^4+38206.2*R[-2]C^5-14351.7*R[-2]C^6)-(-4335.63*R[-1]C+16470*R[-1]C^2-17449.2*R[-1]C^3+7173.31*R[-1]C^4))/4186.8">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=R[-6]C*((2149.17+15049.8*R[-2]C^3-38597.1*R[-2]C^4+38206.2*R[-2]C^5-14351.7*R[-2]C^6)-(-4335.63*R[-1]C+16470*R[-1]C^2-17449.2*R[-1]C^3+7173.31*R[-1]C^4))/4186.8">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=R[-6]C*((2149.17+15049.8*R[-2]C^3-38597.1*R[-2]C^4+38206.2*R[-2]C^5-14351.7*R[-2]C^6)-(-4335.63*R[-1]C+16470*R[-1]C^2-17449.2*R[-1]C^3+7173.31*R[-1]C^4))/4186.8">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=R[-6]C*((2149.17+15049.8*R[-2]C^3-38597.1*R[-2]C^4+38206.2*R[-2]C^5-14351.7*R[-2]C^6)-(-4335.63*R[-1]C+16470*R[-1]C^2-17449.2*R[-1]C^3+7173.31*R[-1]C^4))/4186.8">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wcC679DC40">
+					<ss:Data ss:Type="String">Суммарный расход тепла (по пару)</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc41FC7550">
+					<ss:Data ss:Type="String">Гкал/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc821FDC40" ss:Formula="=SUM(R[-1]C[1]:R[-1]C[4])">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="3" ss:MergeDown="2" ss:StyleID="mcCE20DC304F40DC30CF60DC30">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:MergeDown="1" ss:StyleID="mcCFBCDC400000000000DCDC40">
+					<ss:Data ss:Type="String">Небаланс</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCDEFDC40">
+					<ss:Data ss:Type="String">Гкал/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8AA0DC30" ss:Formula="=R[-1]C-R[-10]C">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="11" ss:StyleID="wcCDEFDC40">
+					<ss:Data ss:Type="String">%</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8AA0DC30" ss:Formula="=(R[-2]C-R[-11]C)/R[-2]C*100">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc4CC7DC40"/>
+				<ss:Cell ss:StyleID="wc024A7550"/>
+				<ss:Cell ss:StyleID="wc4CC7DC40"/>
+				<ss:Cell ss:StyleID="wc4CC7DC40"/>
+				<ss:Cell ss:StyleID="wc4CC7DC40"/>
+				<ss:Cell ss:StyleID="wc4CC7DC40"/>
+				<ss:Cell ss:StyleID="wc4CC7DC40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc4CC7DC40"/>
+				<ss:Cell ss:StyleID="wc024A7550"/>
+				<ss:Cell ss:MergeAcross="4" ss:StyleID="mc0E01DC30CCDDDC40">
+					<ss:Data ss:Type="String">Бойлерная установка - 2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wcC679DC40">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc41FC7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">ОБ-1</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">ОБ-2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">ПБ-1</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">ПБ-2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Расход СВ на бойлерную</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">т/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421229425</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="3" ss:MergeDown="9" ss:StyleID="mc4C71DC30CC91DC304DB1DC30">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Температура на входе в БУ</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421229712</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Температура на выходе из БУ</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421229735</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc85AF7550">
+					<ss:Data ss:Type="String">приведенная температура вход</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4CDF7550" ss:Formula="=(R[-2]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc85AF7550">
+					<ss:Data ss:Type="String">приведенное давление вход</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4CDF7550" ss:Formula="=((R[-41]C+1)/10)/22.064">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc85AF7550">
+					<ss:Data ss:Type="String">Энтальпия воды вход</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">кДж/кг</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4CDF7550" ss:Formula="=7809.096*R[-2]C-13868.72+12725.22/R[-2]C-6370.893/POWER(R[-2]C,2)+1595.86/POWER(R[-2]C,3)-159.9064/POWER(R[-2]C,4)+R[-1]C*(9.488789/R[-2]C)+POWER(R[-1]C,2)*(-148.1135*R[-2]C+224.3027-111.4602/R[-2]C+18.15823/POWER(R[-2]C,2))">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc85AF7550">
+					<ss:Data ss:Type="String">приведенная температура выход</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4CDF7550" ss:Formula="=(R[-4]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc85AF7550">
+					<ss:Data ss:Type="String">приведенное давление выход</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4CDF7550" ss:Formula="=((R[-44]C+1)/10)/22.064">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc85AF7550">
+					<ss:Data ss:Type="String">Энтальпия воды выход</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">кДж/кг</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4CDF7550" ss:Formula="=7809.096*R[-2]C-13868.72+12725.22/R[-2]C-6370.893/POWER(R[-2]C,2)+1595.86/POWER(R[-2]C,3)-159.9064/POWER(R[-2]C,4)+R[-1]C*(9.488789/R[-2]C)+POWER(R[-1]C,2)*(-148.1135*R[-2]C+224.3027-111.4602/R[-2]C+18.15823/POWER(R[-2]C,2))">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Тепловая нагрузка бойлерной</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc876F7550">
+					<ss:Data ss:Type="String">Гкал/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550" ss:Formula="=R[-9]C*((R[-1]C-R[-4]C)/4.1868)/1000">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Температура СВ за бойлером</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0E9D4550">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeDown="4" ss:StyleID="mc4662DC300000000042E2DC30">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421229757</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421229782</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421229806</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421229831</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Расход пара на бойлер</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0E9D4550">
+					<ss:Data ss:Type="String">т/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="13" ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421228996</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421229020</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421229042</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421229064</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Температура пара в бойлере</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0E9D4550">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="13" ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421234257</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421234289</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421234312</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421234337</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc841F7550">
+					<ss:Data ss:Type="String">Давление пара в бойлере</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0E9D4550">
+					<ss:Data ss:Type="String">кг/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="13" ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421228117</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421228139</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421228173</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc852F7550">
+					<ss:Data ss:Type="String">$$tag110421228217</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc002D4550">
+					<ss:Data ss:Type="String">Расход тепла (по пару) на бойлер</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BBEDC40">
+					<ss:Data ss:Type="String">Гкал/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="13" ss:StyleID="wc029F7550">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc029F7550">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc029F7550">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc029F7550">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc814D4550">
+					<ss:Data ss:Type="String">приведенная температура пара</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc024A7550"/>
+				<ss:Cell ss:StyleID="wc0A13DC30">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-3]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-3]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-3]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-3]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc82934550">
+					<ss:Data ss:Type="String">приведенная температура СВ</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc024A7550"/>
+				<ss:Cell ss:StyleID="wc0A13DC30">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-6]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-6]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-6]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=(R[-6]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wc0FFEDC40">
+					<ss:Data ss:Type="String">Расход тепла (по пару) на бойлер</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc024A7550">
+					<ss:Data ss:Type="String">Гкал/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0A13DC30">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=R[-6]C*((2149.17+15049.8*R[-2]C^3-38597.1*R[-2]C^4+38206.2*R[-2]C^5-14351.7*R[-2]C^6)-(-4335.63*R[-1]C+16470*R[-1]C^2-17449.2*R[-1]C^3+7173.31*R[-1]C^4))/4186.8">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=R[-6]C*((2149.17+15049.8*R[-2]C^3-38597.1*R[-2]C^4+38206.2*R[-2]C^5-14351.7*R[-2]C^6)-(-4335.63*R[-1]C+16470*R[-1]C^2-17449.2*R[-1]C^3+7173.31*R[-1]C^4))/4186.8">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=R[-6]C*((2149.17+15049.8*R[-2]C^3-38597.1*R[-2]C^4+38206.2*R[-2]C^5-14351.7*R[-2]C^6)-(-4335.63*R[-1]C+16470*R[-1]C^2-17449.2*R[-1]C^3+7173.31*R[-1]C^4))/4186.8">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc462B4550" ss:Formula="=R[-6]C*((2149.17+15049.8*R[-2]C^3-38597.1*R[-2]C^4+38206.2*R[-2]C^5-14351.7*R[-2]C^6)-(-4335.63*R[-1]C+16470*R[-1]C^2-17449.2*R[-1]C^3+7173.31*R[-1]C^4))/4186.8">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:StyleID="wcC679DC40">
+					<ss:Data ss:Type="String">Суммарный расход тепла (по пару)</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc41FC7550">
+					<ss:Data ss:Type="String">Гкал/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8AA0DC30" ss:Formula="=SUM(R[-1]C[1]:R[-1]C[4])">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="3" ss:MergeDown="2" ss:StyleID="mcCE20DC304F40DC30CF60DC30">
+					<ss:Data ss:Type="String">
+					</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="10" ss:MergeDown="1" ss:StyleID="mcCFBCDC400000000000DCDC40">
+					<ss:Data ss:Type="String">Небаланс</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCDEFDC40">
+					<ss:Data ss:Type="String">Гкал/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8AA0DC30" ss:Formula="=R[-1]C-R[-10]C">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="11" ss:StyleID="wcCDEFDC40">
+					<ss:Data ss:Type="String">%</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8AA0DC30" ss:Formula="=(R[-2]C-R[-11]C)/R[-2]C*100">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+		</ss:Table>
+	</ss:Worksheet>
+	<o:DocumentProperties>
+		<o:Version>10.2625</o:Version>
+	</o:DocumentProperties>
+	<o:OfficeDocumentSettings>
+		<o:DownloadComponents/>
+		<o:LocationOfComponents HRef="file:///G:\Office\MS_FRONT_OFFICE\"/>
+	</o:OfficeDocumentSettings></ss:Workbook>

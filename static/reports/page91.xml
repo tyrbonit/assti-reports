@@ -1,0 +1,1880 @@
+<?xml version="1.0"?>
+<ss:Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+	<x:ExcelWorkbook>
+		<x:ProtectStructure>False</x:ProtectStructure>
+		<x:ActiveSheet>0</x:ActiveSheet>
+		<x:HideWorkbookTabs/>
+	</x:ExcelWorkbook>
+	<ss:Styles>
+		<ss:Style ss:ID="Default">
+			<ss:Alignment ss:Horizontal="Automatic" ss:Rotate="0.0" ss:Vertical="Bottom" ss:ReadingOrder="Context"/>
+			<ss:Borders>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="Automatic" ss:Bold="0" ss:Italic="0" ss:Underline="None"/>
+			<ss:Interior ss:Color="Automatic" ss:Pattern="None"/>
+			<ss:NumberFormat ss:Format="General"/>
+			<ss:Protection ss:Protected="1"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8F6A5910">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC08A5910">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCFAB5910">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC0CB5910">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc86315910">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#FF99CC" ss:Bold="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc45415910">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc04515910">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCF235910">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Bold="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC1435910">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#FF0000"/>
+			<ss:Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc06145910">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8A345910">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF99CC" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc49445910">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4B545910">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF0000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc43745910">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF0000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4E845910">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="None" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc45CC5910">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#FF99CC" ss:Bold="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4A481010">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC2681010">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF99CC" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC3781010">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc07981010">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4AD81010">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc09E81010">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc42341010">
+			<ss:Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc01441010">
+			<ss:Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#00FF00" ss:Pattern="Solid"/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCF441010">
+			<ss:Alignment/>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Standard"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc41D41010">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#CC99FF" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc00E41010">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#00FFFF" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4CF41010">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#FF69B4"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc43151010">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#000000"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mc0604101083241010">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#008000" ss:Bold="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mc036C5910437C5910">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="Fixed"/>
+		</ss:Style>
+	</ss:Styles>
+	<c:ComponentOptions>
+		<c:Label>
+			<c:Caption>Электронная таблица Microsoft Office</c:Caption>
+		</c:Label>
+		<c:SpreadsheetAutoFit/>
+		<c:MaxHeight>342</c:MaxHeight>
+		<c:MaxWidth>796</c:MaxWidth>
+		<c:NextSheetNumber>4</c:NextSheetNumber>
+	</c:ComponentOptions>
+	<x:WorkbookOptions>
+		<c:OWCVersion>10.0.0.5608         </c:OWCVersion>
+	</x:WorkbookOptions>
+	<ss:Worksheet ss:Name="Лист1">
+		<x:WorksheetOptions>
+			<x:Selected/>
+			<x:ViewableRange>R1:R262144</x:ViewableRange>
+			<x:Selection>R64C4</x:Selection>
+			<x:TopRowVisible>48</x:TopRowVisible>
+			<x:LeftColumnVisible>0</x:LeftColumnVisible>
+			<x:ProtectContents>False</x:ProtectContents>
+			<x:Unsynced/>
+		</x:WorksheetOptions>
+		<c:WorksheetOptions>
+		</c:WorksheetOptions>
+		<ss:Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="111" ss:DefaultColumnWidth="48.0" ss:DefaultRowHeight="12.75">
+			<ss:Column ss:Index="2" ss:Width="225.0"/>
+			<ss:Column ss:Width="47.25" ss:StyleID="wc8F6A5910"/>
+			<ss:Column ss:Width="55.5" ss:AutoFitWidth="0" ss:StyleID="wcC08A5910"/>
+			<ss:Column ss:Width="50.25" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Hidden="1" ss:Width="0.0"/>
+			<ss:Column ss:Width="115.5" ss:AutoFitWidth="0"/>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="Default"/>
+				<ss:Cell ss:StyleID="wc8F6A5910"/>
+				<ss:Cell ss:StyleID="wcC08A5910"/>
+				<ss:Cell ss:StyleID="Default"/>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="3" ss:StyleID="wc8F6A5910"/>
+				<ss:Cell ss:StyleID="wcC08A5910"/>
+			</ss:Row>
+			<ss:Row ss:Index="4">
+				<ss:Cell ss:Index="2" ss:StyleID="Default">
+					<ss:Data ss:Type="String">Показатели работы оборудования</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8F6A5910"/>
+				<ss:Cell ss:StyleID="wcC08A5910"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="3" ss:StyleID="wc8F6A5910"/>
+				<ss:Cell ss:StyleID="wcC08A5910">
+					<ss:Data ss:Type="String">1 блок</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="Default">
+					<ss:Data ss:Type="String">2 блок</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Показатель</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">ед. изм</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeAcross="1" ss:StyleID="mc036C5910437C5910">
+					<ss:Data ss:Type="String">Значение</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="12.0" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Расход питательной воды на котел</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">т/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877617970</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421229404</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Расход пара на промперегрев</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">т/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=R[-1]C*0.861">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=R[-1]C*0.861">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Расход ПВ на впрыски в пром н.А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">т/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877642217</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421229187</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Расход ПВ на впрыски в пром н.Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">т/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877642512</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421229215</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="13.5" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Расход ПВ на впрыски в пром</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">т/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=SUM(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=SUM(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Расход пара на РОУ</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">т/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110525458846</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421229117</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Расход продувки</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">т/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877617718</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421228973</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Давление питательной воды</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кгс/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="Number">200</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421228720</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Температура питательной воды</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877605412</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421229689</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">приведенная температура</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF235910"/>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=(R[-1]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=(R[-1]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">приведенное давление</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF235910"/>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=((R[-3]C+1)/10)/22.064">
+					<ss:Data ss:Type="Number">0.91098622189992751</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=((R[-3]C+1)/10)/22.064">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Энтальпия питательной воды</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кДж/кг</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=7809.096*R[-2]C-13868.72+12725.22/R[-2]C-6370.893/POWER(R[-2]C,2)+1595.86/POWER(R[-2]C,3)-159.9064/POWER(R[-2]C,4)+R[-1]C*(9.488789/R[-2]C)+POWER(R[-1]C,2)*(-148.1135*R[-2]C+224.3027-111.4602/R[-2]C+18.15823/POWER(R[-2]C,2))">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=7809.096*R[-2]C-13868.72+12725.22/R[-2]C-6370.893/POWER(R[-2]C,2)+1595.86/POWER(R[-2]C,3)-159.9064/POWER(R[-2]C,4)+R[-1]C*(9.488789/R[-2]C)+POWER(R[-1]C,2)*(-148.1135*R[-2]C+224.3027-111.4602/R[-2]C+18.15823/POWER(R[-2]C,2))">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Давление острого пара слева</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кгс/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877618778</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421228489</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Давление острого пара справа</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кгс/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877618023</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421228514</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Давление острого пара среднее</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кгс/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=AVERAGE(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=AVERAGE(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Температура острого пара слева</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877641529</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421234709</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Температура острого пара справа</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877641648</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421234734</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Температура острого пара средняя</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=AVERAGE(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=AVERAGE(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">приведенная температура</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc06145910"/>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=(R[-1]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=(R[-1]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8A345910">
+					<ss:Data ss:Type="String">приведенное давление</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc49445910"/>
+				<ss:Cell ss:StyleID="wc4B545910" ss:Formula="=((R[-5]C+1)/10)/22.064">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc43745910" ss:Formula="=((R[-5]C+1)/10)/22.064">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8A345910">
+					<ss:Data ss:Type="String">Энталипия острого пара (уравнение)</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4E845910">
+					<ss:Data ss:Type="String">кДж/кг</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4B545910" ss:Formula="=(10258.8-20231.3/R[-2]C+24702.8/R[-2]C^2-16307.3/R[-2]C^3+5579.31/R[-2]C^4-777.285/R[-2]C^5)+R[-1]C*(-355.878/R[-2]C+817.288/R[-2]C^2-845.841/R[-2]C^3)-R[-1]C^2*(160.276/R[-2]C^3)+R[-1]C^3*(-95607.5/R[-2]C+443740/R[-2]C^2-767668/R[-2]C^3+587261/R[-2]C^4-167657/R[-2]C^5)+R[-1]C^4*(22542.8/R[-2]C^2-84140.2/R[-2]C^3+104198/R[-2]C^4-42886.7/R[-2]C^5)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc43745910" ss:Formula="=(10258.8-20231.3/R[-2]C+24702.8/R[-2]C^2-16307.3/R[-2]C^3+5579.31/R[-2]C^4-777.285/R[-2]C^5)+R[-1]C*(-355.878/R[-2]C+817.288/R[-2]C^2-845.841/R[-2]C^3)-R[-1]C^2*(160.276/R[-2]C^3)+R[-1]C^3*(-95607.5/R[-2]C+443740/R[-2]C^2-767668/R[-2]C^3+587261/R[-2]C^4-167657/R[-2]C^5)+R[-1]C^4*(22542.8/R[-2]C^2-84140.2/R[-2]C^3+104198/R[-2]C^4-42886.7/R[-2]C^5)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Энталипия острого пара (WSP)</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кДж/кг</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=cs(&quot;wsp&quot;,&quot;wspHPT&quot;,(R[-7]C+1)*100000,R[-4]C+273.15)/1000">
+					<ss:Data ss:Type="Error">#NAME?</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=cs(&quot;wsp&quot;,&quot;wspHPT&quot;,(R[-7]C+1)*100000,R[-4]C+273.15)/1000">
+					<ss:Data ss:Type="Error">#NAME?</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="13.5" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Давление питательной воды на ПП</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кгс/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="Number">40</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="Number">40</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">приведенная температура</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF235910"/>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=(R[-15]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=(R[-15]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">приведенное давление</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF235910"/>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=((R[-2]C+1)/10)/22.064">
+					<ss:Data ss:Type="Number">0.18582306018854242</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=((R[-2]C+1)/10)/22.064">
+					<ss:Data ss:Type="Number">0.18582306018854242</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Энтальпия питательной воды на ПП</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кДж/кг</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=7809.096*R[-2]C-13868.72+12725.22/R[-2]C-6370.893/POWER(R[-2]C,2)+1595.86/POWER(R[-2]C,3)-159.9064/POWER(R[-2]C,4)+R[-1]C*(9.488789/R[-2]C)+POWER(R[-1]C,2)*(-148.1135*R[-2]C+224.3027-111.4602/R[-2]C+18.15823/POWER(R[-2]C,2))">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=7809.096*R[-2]C-13868.72+12725.22/R[-2]C-6370.893/POWER(R[-2]C,2)+1595.86/POWER(R[-2]C,3)-159.9064/POWER(R[-2]C,4)+R[-1]C*(9.488789/R[-2]C)+POWER(R[-1]C,2)*(-148.1135*R[-2]C+224.3027-111.4602/R[-2]C+18.15823/POWER(R[-2]C,2))">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Давление в барабане</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кгс/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="Number">130</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421228462</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc45CC5910">
+					<ss:Data ss:Type="String">Температура ПВ в барабане (уравнение)</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">К</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=1000/(2.6864264-0.20096551*LN(R[-1]C)-2.16688*10^(-3)*(LN(R[-1]C))^2-9.480808*10^(-5)*(LN(R[-1]C))^3+6.135062*10^(-6)*(LN(R[-1]C))^4+3.6917245*10^(-6)*(LN(R[-1]C))^5)">
+					<ss:Data ss:Type="Number">602.59927756051854</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=1000/(2.6864264-0.20096551*LN(R[-1]C)-2.16688*10^(-3)*(LN(R[-1]C))^2-9.480808*10^(-5)*(LN(R[-1]C))^3+6.135062*10^(-6)*(LN(R[-1]C))^4+3.6917245*10^(-6)*(LN(R[-1]C))^5)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="0.75" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Энтальпия продувочной воды (уравнение)</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кДж/кг</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=-4335.63*(R[-1]C/647.14)+16470*(R[-1]C/647.14)^2-17449.2*(R[-1]C/647.14)^3+7131.31*(R[-1]C/647.14)^4">
+					<ss:Data ss:Type="Number">1516.632220541569</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=-4335.63*(R[-1]C/647.14)+16470*(R[-1]C/647.14)^2-17449.2*(R[-1]C/647.14)^3+7131.31*(R[-1]C/647.14)^4">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc45CC5910">
+					<ss:Data ss:Type="String">Температура ПВ в барабане (WSP)</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">К</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=cs(&quot;wsp&quot;,&quot;wspTSP&quot;,(R[-3]C+1)*100000)*1">
+					<ss:Data ss:Type="Error">#NAME?</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=cs(&quot;wsp&quot;,&quot;wspTSP&quot;,(R[-3]C+1)*100000)*1">
+					<ss:Data ss:Type="Error">#NAME?</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Энтальпия продувочной воды (WSP)</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кДж/кг</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=cs(&quot;wsp&quot;,&quot;wspHSWT&quot;,R[-1]C)/1000">
+					<ss:Data ss:Type="Error">#NAME?</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=cs(&quot;wsp&quot;,&quot;wspHSWT&quot;,R[-1]C)/1000">
+					<ss:Data ss:Type="Error">#NAME?</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Давление пара ХПП слева</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кгс/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877609940</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421228070</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Давление пара ХПП справа</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кгс/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877609415</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421228095</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Давление пара ХПП среднее</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кгс/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=AVERAGE(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=AVERAGE(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Температура пара ХПП слева</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877608825</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421233956</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Температура пара ХПП справа</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877608879</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421233979</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Температура пара ХПП средняя</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=AVERAGE(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=AVERAGE(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">приведенная температура</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4A481010"/>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=(R[-1]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=(R[-1]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wcC2681010">
+					<ss:Data ss:Type="String">приведенное давление</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC3781010"/>
+				<ss:Cell ss:StyleID="wc43745910" ss:Formula="=((R[-5]C+1)/10)/22.064">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4B545910" ss:Formula="=((R[-5]C+1)/10)/22.064">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wcC2681010">
+					<ss:Data ss:Type="String">Энталипия пара ХПП (уравнение)</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc07981010">
+					<ss:Data ss:Type="String">кДж/кг</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc43745910" ss:Formula="=(10258.8-20231.3/R[-2]C+24702.8/R[-2]C^2-16307.3/R[-2]C^3+5579.31/R[-2]C^4-777.285/R[-2]C^5)+R[-1]C*(-355.878/R[-2]C+817.288/R[-2]C^2-845.841/R[-2]C^3)-R[-1]C^2*(160.276/R[-2]C^3)+R[-1]C^3*(-95607.5/R[-2]C+443740/R[-2]C^2-767668/R[-2]C^3+587261/R[-2]C^4-167657/R[-2]C^5)+R[-1]C^4*(22542.8/R[-2]C^2-84140.2/R[-2]C^3+104198/R[-2]C^4-42886.7/R[-2]C^5)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4B545910" ss:Formula="=(10258.8-20231.3/R[-2]C+24702.8/R[-2]C^2-16307.3/R[-2]C^3+5579.31/R[-2]C^4-777.285/R[-2]C^5)+R[-1]C*(-355.878/R[-2]C+817.288/R[-2]C^2-845.841/R[-2]C^3)-R[-1]C^2*(160.276/R[-2]C^3)+R[-1]C^3*(-95607.5/R[-2]C+443740/R[-2]C^2-767668/R[-2]C^3+587261/R[-2]C^4-167657/R[-2]C^5)+R[-1]C^4*(22542.8/R[-2]C^2-84140.2/R[-2]C^3+104198/R[-2]C^4-42886.7/R[-2]C^5)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Энтальпия пара ХПП</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кДж/кг</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=cs(&quot;wsp&quot;,&quot;wspHPT&quot;,(R[-7]C+1)*100000,R[-4]C+273.15)/1000">
+					<ss:Data ss:Type="Error">#NAME?</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=cs(&quot;wsp&quot;,&quot;wspHPT&quot;,(R[-7]C+1)*100000,R[-4]C+273.15)/1000">
+					<ss:Data ss:Type="Error">#NAME?</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Перепад давления ХПП-ГПП н.А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910"/>
+				<ss:Cell ss:StyleID="wc4AD81010">
+					<ss:Data ss:Type="String">$$tag109877638017</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Перепад давления ХПП-ГПП н.Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910"/>
+				<ss:Cell ss:StyleID="wc4AD81010">
+					<ss:Data ss:Type="String">$$tag109877642918</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Давление пара ГПП слева</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кгс/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=R[-12]C-R[-2]C">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421228537</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Давление пара ГПП справа</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кгс/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=R[-12]C-R[-2]C">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421228560</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Давление пара ГПП среднее</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кгс/см2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=AVERAGE(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=AVERAGE(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Температура пара ГПП слева</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877641156</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421233796</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="14.25" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Температура пара ГПП справа</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877641221</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421233821</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Температура пара ГПП средняя</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">0С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=AVERAGE(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=AVERAGE(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">приведенная температура</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4A481010"/>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=(R[-1]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC1435910" ss:Formula="=(R[-1]C+273.15)/647.14">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wcC2681010">
+					<ss:Data ss:Type="String">приведенное давление</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC3781010"/>
+				<ss:Cell ss:StyleID="wc43745910" ss:Formula="=((R[-5]C+1)/10)/22.064">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4B545910" ss:Formula="=((R[-5]C+1)/10)/22.064">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wcC2681010">
+					<ss:Data ss:Type="String">Энталипия пара ГПП (уравнение)</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc07981010">
+					<ss:Data ss:Type="String">кДж/кг</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc43745910" ss:Formula="=(10258.8-20231.3/R[-2]C+24702.8/R[-2]C^2-16307.3/R[-2]C^3+5579.31/R[-2]C^4-777.285/R[-2]C^5)+R[-1]C*(-355.878/R[-2]C+817.288/R[-2]C^2-845.841/R[-2]C^3)-R[-1]C^2*(160.276/R[-2]C^3)+R[-1]C^3*(-95607.5/R[-2]C+443740/R[-2]C^2-767668/R[-2]C^3+587261/R[-2]C^4-167657/R[-2]C^5)+R[-1]C^4*(22542.8/R[-2]C^2-84140.2/R[-2]C^3+104198/R[-2]C^4-42886.7/R[-2]C^5)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4B545910" ss:Formula="=(10258.8-20231.3/R[-2]C+24702.8/R[-2]C^2-16307.3/R[-2]C^3+5579.31/R[-2]C^4-777.285/R[-2]C^5)+R[-1]C*(-355.878/R[-2]C+817.288/R[-2]C^2-845.841/R[-2]C^3)-R[-1]C^2*(160.276/R[-2]C^3)+R[-1]C^3*(-95607.5/R[-2]C+443740/R[-2]C^2-767668/R[-2]C^3+587261/R[-2]C^4-167657/R[-2]C^5)+R[-1]C^4*(22542.8/R[-2]C^2-84140.2/R[-2]C^3+104198/R[-2]C^4-42886.7/R[-2]C^5)">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc86315910">
+					<ss:Data ss:Type="String">Энтальпия пара ГПП (WSP)</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кДж/кг</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=cs(&quot;wsp&quot;,&quot;wspHPT&quot;,(R[-7]C+1)*100000,R[-4]C+273.15)/1000">
+					<ss:Data ss:Type="Error">#NAME?</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=cs(&quot;wsp&quot;,&quot;wspHPT&quot;,(R[-7]C+1)*100000,R[-4]C+273.15)/1000">
+					<ss:Data ss:Type="Error">#NAME?</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:MergeAcross="3" ss:StyleID="mc0604101083241010">
+					<ss:Data ss:Type="String">Котлоагрегат</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc42341010">
+					<ss:Data ss:Type="String">Нагрузка блока</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">МВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc01441010">
+					<ss:Data ss:Type="String">$$tag110283650067</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc01441010">
+					<ss:Data ss:Type="String">$$tag110421225951</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Теплопроизводительность котла (WSP)</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">Гкал/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=(R[-55]C*(R[-34]C-R[-44]C)+(R[-54]C-R[-50]C)*(R[-3]C-R[-15]C)+R[-51]C*(R[-3]C-2655)+R[-49]C*(R[-25]C-R[-44]C))/4.1868/1000">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=(R[-55]C*(R[-34]C-R[-44]C)+(R[-54]C-R[-50]C)*(R[-3]C-R[-15]C)+R[-51]C*(R[-3]C-2655)+R[-49]C*(R[-25]C-R[-44]C))/4.1868/1000">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Теплопроизводительность котла (уравнение)</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">Гкал/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=(R[-56]C*(R[-36]C-R[-45]C)+(R[-55]C-R[-51]C)*(R[-5]C-R[-17]C)+R[-52]C*(R[-5]C-2655)+R[-50]C*(R[-28]C-R[-45]C))/4.1868/1000">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=(R[-56]C*(R[-36]C-R[-45]C)+(R[-55]C-R[-51]C)*(R[-5]C-R[-17]C)+R[-52]C*(R[-5]C-2655)+R[-50]C*(R[-28]C-R[-45]C))/4.1868/1000">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя ПЭН-А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877652126</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя ПЭН-Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877652181</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc41D41010">
+					<ss:Data ss:Type="String">Суммарная мощность ПЭНов</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВтч</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=SUM(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=SUM(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc00E41010">
+					<ss:Data ss:Type="String">Удельный расход э/э на тонну ПВ</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВтч/т</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=R[-1]C/R[-60]C">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=R[-1]C/R[-60]C">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4CF41010">
+					<ss:Data ss:Type="String">Мощность электродвигателя ДВ-А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">МВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421226017</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877652017</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4CF41010">
+					<ss:Data ss:Type="String">Мощность электродвигателя ДВ-Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">МВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421226037</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877652071</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc43151010">
+					<ss:Data ss:Type="String">Мощность электродвигателя ДВ-А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910"/>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=IF(R[-2]C*1000&gt;20,R[-2]C*1000,0)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc43151010">
+					<ss:Data ss:Type="String">Мощность электродвигателя ДВ-Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910"/>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=IF(R[-2]C*1000&gt;20,R[-2]C*1000,0)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc41D41010">
+					<ss:Data ss:Type="String">Суммарная мощность ДВ</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=SUM(R[-4]C:R[-3]C)">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=SUM(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc00E41010">
+					<ss:Data ss:Type="String">Удельный расход э/э на дутьё</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВтч/Гкал</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=R[-1]C/R[-11]C">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=R[-1]C/R[-10]C">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4CF41010">
+					<ss:Data ss:Type="String">Мощность электродвигателя ДС-А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">МВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877613615</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421226098</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877651768</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4CF41010">
+					<ss:Data ss:Type="String">Мощность электродвигателя ДС-Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">МВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877613671</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421226114</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877651821</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя ДС-А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910"/>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=IF(R[-2]C*1000&gt;20,R[-2]C*1000,0)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя ДС-Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910"/>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=IF(R[-2]C*1000&gt;20,R[-2]C*1000,0)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc41D41010">
+					<ss:Data ss:Type="String">Суммарная мощность ДС</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=SUM(R[-4]C:R[-3]C)">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=R[-1]C+R[-2]C">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc00E41010">
+					<ss:Data ss:Type="String">Удельный расход э/э на тягу</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВтч/Гкал</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=R[-1]C/R[-17]C">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=R[-1]C/R[-16]C">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4CF41010">
+					<ss:Data ss:Type="String">Мощность электродвигателя МВ-А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">МВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421226131</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877651360</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4CF41010">
+					<ss:Data ss:Type="String">Мощность электродвигателя МВ-Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">МВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421226160</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877651415</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="0.75" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4CF41010">
+					<ss:Data ss:Type="String">Мощность электродвигателя МВ-В</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">МВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421226182</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877651506</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4CF41010">
+					<ss:Data ss:Type="String">Мощность электродвигателя МВ-Г</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">МВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421226204</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877651568</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4CF41010">
+					<ss:Data ss:Type="String">Мощность электродвигателя МВ-Д</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">МВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421226228</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877651637</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4CF41010">
+					<ss:Data ss:Type="String">Мощность электродвигателя МВ-Е</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">МВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421226250</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877651700</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="0.75" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4CF41010">
+					<ss:Data ss:Type="String">Мощность электродвигателя ДРГ-А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">МВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421226059</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877651885</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Hidden="1" ss:Height="0.0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4CF41010">
+					<ss:Data ss:Type="String">Мощность электродвигателя ДРГ-Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">МВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag110421226079</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877651951</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя МВ-А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc09E81010"/>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=IF(R[-8]C*1000&gt;20,R[-8]C*1000,0)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя МВ-Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc09E81010"/>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=IF(R[-8]C*1000&gt;20,R[-8]C*1000,0)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя МВ-В</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc09E81010"/>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=IF(R[-8]C*1000&gt;20,R[-8]C*1000,0)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя МВ-Г</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc09E81010"/>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=IF(R[-8]C*1000&gt;20,R[-8]C*1000,0)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя МВ-Д</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc09E81010"/>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=IF(R[-8]C*1000&gt;20,R[-8]C*1000,0)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя МВ-Е</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc09E81010"/>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=IF(R[-8]C*1000&gt;20,R[-8]C*1000,0)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя ДРГ-А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc09E81010"/>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=IF(R[-8]C*1000&gt;20,R[-8]C*1000,0)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя ДРГ-Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc09E81010"/>
+				<ss:Cell ss:StyleID="wc09E81010" ss:Formula="=IF(R[-8]C*1000&gt;20,R[-8]C*1000,0)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc41D41010">
+					<ss:Data ss:Type="String">Суммарная мощность ЭД на пылеприготовление</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=SUM(R[-16]C:R[-9]C)">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=SUM(R[-8]C:R[-1]C)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:MergeAcross="3" ss:StyleID="mc0604101083241010">
+					<ss:Data ss:Type="String">Турбоагрегат</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="6" ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Расход основного конденсата</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">т/час</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910">
+					<ss:Data ss:Type="String">$$tag109877609995</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя КЭН-IА</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877652367</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя КЭН-IБ</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877652432</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя КЭН-IIА</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877652487</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя КЭН-IIБ</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877652553</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя КЭН-IIВ</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877652607</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc41D41010">
+					<ss:Data ss:Type="String">Суммарная мощность КЭНов</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=SUM(R[-5]C:R[-1]C)">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=SUM(R[-5]C:R[-1]C)">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc00E41010">
+					<ss:Data ss:Type="String">Удельный расход э/э на тонну ОК</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВтч/т</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=R[-1]C/R[-7]C">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=R[-1]C/R[-7]C">
+					<ss:Data ss:Type="Error">#DIV/0!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя ЦН-А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877653373</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя ЦН-Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877653671</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc41D41010">
+					<ss:Data ss:Type="String">Суммарная мощность ЦНов</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=SUM(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=SUM(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя ПНЭ-А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877652259</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wcCFAB5910">
+					<ss:Data ss:Type="String">Мощность электродвигателя ПНЭ-Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wc45415910"/>
+				<ss:Cell ss:StyleID="wcCF441010">
+					<ss:Data ss:Type="String">$$tag109877652312</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row>
+				<ss:Cell ss:Index="2" ss:StyleID="wc41D41010">
+					<ss:Data ss:Type="String">Суммарная мощность ПНЭ</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC0CB5910">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=SUM(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc04515910" ss:Formula="=SUM(R[-2]C:R[-1]C)">
+					<ss:Data ss:Type="Number">0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCF441010"/>
+			</ss:Row>
+		</ss:Table>
+	</ss:Worksheet>
+	<ss:Worksheet ss:Name="Лист2">
+		<x:WorksheetOptions>
+			<x:ViewableRange>R1:R262144</x:ViewableRange>
+			<x:Selection>R1C1</x:Selection>
+			<x:TopRowVisible>0</x:TopRowVisible>
+			<x:LeftColumnVisible>0</x:LeftColumnVisible>
+			<x:ProtectContents>False</x:ProtectContents>
+		</x:WorksheetOptions>
+		<c:WorksheetOptions>
+		</c:WorksheetOptions>
+	</ss:Worksheet>
+	<ss:Worksheet ss:Name="Лист3">
+		<x:WorksheetOptions>
+			<x:ViewableRange>R1:R262144</x:ViewableRange>
+			<x:Selection>R1C1</x:Selection>
+			<x:TopRowVisible>0</x:TopRowVisible>
+			<x:LeftColumnVisible>0</x:LeftColumnVisible>
+			<x:ProtectContents>False</x:ProtectContents>
+		</x:WorksheetOptions>
+		<c:WorksheetOptions>
+		</c:WorksheetOptions>
+	</ss:Worksheet>
+	<o:DocumentProperties>
+		<o:Version>10.2625</o:Version>
+	</o:DocumentProperties>
+	<o:OfficeDocumentSettings>
+		<o:DownloadComponents/>
+		<o:LocationOfComponents HRef="file:///G:\Office\MS_FRONT_OFFICE\"/>
+	</o:OfficeDocumentSettings></ss:Workbook>

@@ -1,0 +1,674 @@
+<?xml version="1.0"?>
+<ss:Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+	<x:ExcelWorkbook>
+		<x:ProtectStructure>False</x:ProtectStructure>
+		<x:ActiveSheet>0</x:ActiveSheet>
+		<x:HideWorkbookTabs/>
+	</x:ExcelWorkbook>
+	<ss:Styles>
+		<ss:Style ss:ID="Default">
+			<ss:Alignment ss:Horizontal="Automatic" ss:Rotate="0.0" ss:Vertical="Bottom" ss:ReadingOrder="Context"/>
+			<ss:Borders>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="Automatic" ss:Bold="0" ss:Italic="0" ss:Underline="None"/>
+			<ss:Interior ss:Color="Automatic" ss:Pattern="None"/>
+			<ss:NumberFormat ss:Format="General"/>
+			<ss:Protection ss:Protected="1"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0E2B9B30">
+			<ss:Alignment/>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#00008B" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4E3B9B30">
+			<ss:Alignment/>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc405B9B30">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="14" ss:Color="#E6E6FA" ss:Bold="1"/>
+			<ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc806B9B30">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4F6B9B30">
+			<ss:Alignment ss:Rotate="0.0" ss:Vertical="Bottom" ss:ReadingOrder="Context"/>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="0" ss:Italic="0" ss:Underline="None"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc003C9B30">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Bold="0"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc85B49B30">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#FF0000"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4E4D9B30">
+			<ss:Alignment ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0D5D9B30">
+			<ss:Alignment ss:Vertical="Center"/>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCB6D9B30">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="2.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#00008B" ss:Bold="0"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8A7D9B30">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#FF0000"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc498D9B30">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc089D9B30">
+			<ss:Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc48AD9B30">
+			<ss:Alignment ss:Horizontal="Right"/>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc88BD9B30">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="20" ss:Color="#E6E6FA" ss:Bold="1"/>
+			<ss:Interior ss:Color="#00008B" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc89CD9B30">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#FF0000" ss:Bold="1"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC9DD9B30">
+			<ss:Alignment ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="20" ss:Color="#778899" ss:Bold="1"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCAED9B30">
+			<ss:Alignment ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="20" ss:Color="#DC143C" ss:Bold="1"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0FF3C240">
+			<ss:Alignment ss:Vertical="Top"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#778899" ss:Bold="1"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4455C240">
+			<ss:Alignment ss:Rotate="0.0" ss:Vertical="Bottom" ss:ReadingOrder="Context"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#778899" ss:Bold="1" ss:Italic="0" ss:Underline="None"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC675C240">
+			<ss:Alignment ss:Horizontal="Center" ss:Rotate="0.0" ss:Vertical="Bottom" ss:ReadingOrder="Context"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="16" ss:Color="#FF0000" ss:Bold="1" ss:Italic="0" ss:Underline="Single"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8636C240">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#FFFFFF" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="20" ss:Color="#E6E6FA" ss:Bold="1"/>
+			<ss:Interior ss:Color="#00008B" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4546C240">
+			<ss:Alignment ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="20" ss:Color="#778899" ss:Bold="1"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0856C240">
+			<ss:Alignment ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="20" ss:Color="#DC143C" ss:Bold="1"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC666C240">
+			<ss:Alignment ss:Vertical="Top"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#778899" ss:Bold="1"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8F76C240">
+			<ss:Alignment ss:Rotate="0.0" ss:Vertical="Bottom" ss:ReadingOrder="Context"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#778899" ss:Bold="1" ss:Italic="0" ss:Underline="None"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc41A6C240">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#000080" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial CYR" ss:Size="16" ss:Color="#FF0000" ss:Bold="1" ss:Italic="0" ss:Underline="Single"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC1D6C240">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc80E6C240">
+			<ss:Alignment ss:Rotate="0.0" ss:Vertical="Bottom" ss:ReadingOrder="Context"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#000000" ss:Bold="0" ss:Italic="0" ss:Underline="None"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4197C240">
+			<ss:Alignment ss:Horizontal="Right"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#DC143C" ss:Bold="1"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc00A7C240">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc02B7C240">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Font ss:FontName="Arial Cyr" ss:Bold="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC8D8C240">
+			<ss:Alignment ss:Horizontal="Right"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="14" ss:Color="#778899"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0CE8C240">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="16" ss:Color="#FF0000"/>
+			<ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC31AC240">
+			<ss:Alignment ss:Horizontal="Right" ss:Rotate="0.0" ss:Vertical="Bottom" ss:ReadingOrder="Context"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="14" ss:Color="#778899" ss:Bold="0" ss:Italic="0" ss:Underline="None"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc072AC240">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="16" ss:Color="#FF0000"/>
+			<ss:Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="mc43F9C240830AC240">
+			<ss:Alignment ss:Horizontal="Right" ss:Rotate="0.0" ss:Vertical="Center" ss:ReadingOrder="Context"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="20" ss:Color="#DC143C" ss:Bold="1" ss:Italic="0" ss:Underline="None"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="mc0069C2404079C240">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="20" ss:Color="#E6E6FA" ss:Bold="1"/>
+			<ss:Interior ss:Color="#00008B" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="mc48B8C24088C8C240">
+			<ss:Alignment ss:Horizontal="Right" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="20" ss:Color="#DC143C" ss:Bold="1"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="mc0528C2404538C240">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#FFFFFF" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="20" ss:Color="#E6E6FA" ss:Bold="1"/>
+			<ss:Interior ss:Color="#00008B" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="mcC077C2400187C240">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Bold="1"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="mc0616C240000000004626C240">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="16" ss:Color="#F4A460" ss:Bold="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mc87359B3000000000C7459B30">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="14" ss:Color="#F4A460" ss:Bold="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mc05949B300000000045A49B30">
+			<ss:Alignment ss:Horizontal="Right"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#FF0000" ss:Bold="1"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="mcC2BC9B300000000003CC9B30">
+			<ss:Alignment ss:Horizontal="Right" ss:Rotate="0.0" ss:Vertical="Top" ss:ReadingOrder="Context"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="#FF0000" ss:Bold="1" ss:Italic="0" ss:Underline="None"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="mcCE0C9B30000000000F1C9B30">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Color="#00008B" ss:Weight="3.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Color="#00008B" ss:Bold="1"/>
+			<ss:Interior ss:Color="#F5F5F5" ss:Pattern="Solid"/>
+		</ss:Style>
+		<ss:Style ss:ID="mcCC1A9B30CC1A9B30">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="14" ss:Color="#E6E6FA" ss:Bold="1"/>
+			<ss:Interior ss:Color="#00008B" ss:Pattern="Solid"/>
+		</ss:Style>
+	</ss:Styles>
+	<c:ComponentOptions>
+		<c:Label>
+			<c:Caption>Электронная таблица Microsoft Office</c:Caption>
+		</c:Label>
+		<c:SpreadsheetAutoFit/>
+		<c:MaxHeight>333</c:MaxHeight>
+		<c:MaxWidth>796</c:MaxWidth>
+		<c:NextSheetNumber>4</c:NextSheetNumber>
+	</c:ComponentOptions>
+	<x:WorkbookOptions>
+		<c:OWCVersion>10.0.0.5608         </c:OWCVersion>
+	</x:WorkbookOptions>
+	<ss:Worksheet ss:Name="Данные">
+		<x:WorksheetOptions>
+			<x:Selected/>
+			<x:ViewableRange>R1:R262144</x:ViewableRange>
+			<x:Selection>R10C9</x:Selection>
+			<x:TopRowVisible>0</x:TopRowVisible>
+			<x:LeftColumnVisible>0</x:LeftColumnVisible>
+			<x:ProtectContents>False</x:ProtectContents>
+			<x:Unsynced/>
+		</x:WorksheetOptions>
+		<c:WorksheetOptions>
+		</c:WorksheetOptions>
+		<ss:Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="15" ss:DefaultColumnWidth="48.0" ss:DefaultRowHeight="12.75">
+			<ss:Column ss:Width="7.5" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="57.75" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="2.25" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="57.75" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="67.5" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Span="1" ss:Width="44.25" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="128.25" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="76.5" ss:AutoFitWidth="0"/>
+			<ss:Row ss:Height="6.0" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="3" ss:StyleID="Default"/>
+				<ss:Cell ss:Index="6" ss:StyleID="Default"/>
+			</ss:Row>
+			<ss:Row ss:Height="18.75" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:MergeAcross="6" ss:StyleID="mcCC1A9B30CC1A9B30">
+					<ss:Data ss:Type="String">Выполнение диспетчерского графика</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="9" ss:StyleID="wc0E2B9B30"/>
+			</ss:Row>
+			<ss:Row ss:Height="2.25" ss:AutoFitHeight="0" ss:StyleID="wc4E3B9B30">
+				<ss:Cell ss:StyleID="wc4E3B9B30"/>
+				<ss:Cell ss:StyleID="wc405B9B30"/>
+				<ss:Cell ss:StyleID="wc405B9B30"/>
+				<ss:Cell ss:StyleID="wc405B9B30"/>
+				<ss:Cell ss:StyleID="wc405B9B30"/>
+				<ss:Cell ss:StyleID="wc405B9B30"/>
+				<ss:Cell ss:StyleID="wc405B9B30"/>
+				<ss:Cell ss:StyleID="wc405B9B30"/>
+			</ss:Row>
+			<ss:Row ss:Height="16.5" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc806B9B30"/>
+				<ss:Cell ss:StyleID="wc4F6B9B30"/>
+				<ss:Cell ss:MergeDown="1" ss:StyleID="mcCE0C9B30000000000F1C9B30">
+					<ss:Data ss:Type="String">РДГ</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc003C9B30">
+					<ss:Data ss:Type="String">Телемеханика</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeDown="1" ss:StyleID="mcC2BC9B300000000003CC9B30">
+					<ss:Data ss:Type="String">Мах</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeDown="1" ss:StyleID="mc05949B300000000045A49B30">
+					<ss:Data ss:Type="String">Min</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85B49B30"/>
+				<ss:Cell ss:MergeDown="1" ss:StyleID="mc87359B3000000000C7459B30">
+					<ss:Data ss:Type="String">сумма</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="13.5" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4E4D9B30"/>
+				<ss:Cell ss:StyleID="wc0D5D9B30"/>
+				<ss:Cell ss:Index="5" ss:StyleID="wcCB6D9B30">
+					<ss:Data ss:Type="String">(текущие)</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="8" ss:StyleID="wc8A7D9B30"/>
+			</ss:Row>
+			<ss:Row ss:Height="3.0" ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="Default"/>
+				<ss:Cell ss:StyleID="wc0D5D9B30"/>
+				<ss:Cell ss:StyleID="wc0D5D9B30"/>
+				<ss:Cell ss:StyleID="wc498D9B30"/>
+				<ss:Cell ss:StyleID="wc498D9B30"/>
+				<ss:Cell ss:StyleID="wc089D9B30"/>
+				<ss:Cell ss:StyleID="wc48AD9B30"/>
+				<ss:Cell ss:StyleID="wc4E3B9B30"/>
+				<ss:Cell ss:StyleID="wc4E3B9B30"/>
+				<ss:Cell ss:StyleID="wc4E3B9B30"/>
+			</ss:Row>
+			<ss:Row ss:Height="27.0" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc88BD9B30">
+					<ss:Data ss:Type="String">ТГ-1</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc89CD9B30"/>
+				<ss:Cell ss:StyleID="wcC9DD9B30">
+					<ss:Data ss:Type="String">$$tag111259976711</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCAED9B30">
+					<ss:Data ss:Type="String">$$tag110525611951</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0FF3C240" ss:Formula="=RC[-2]+1.5">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4455C240" ss:Formula="=RC[-3]-1.5">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC675C240" ss:Formula="=IF(RC[-3]&gt;RC[-2],&quot;ПРЕВЫШЕНИЕ&quot;,(IF(RC[-3]&lt;RC[-1],&quot;НЕВЫПОЛНЕНИЕ&quot;,&quot;&quot;)))">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeDown="1" ss:StyleID="mc0616C240000000004626C240" ss:Formula="=RC[-4]+R[1]C[-4]">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="25.5" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8636C240">
+					<ss:Data ss:Type="String">ТГ-2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc89CD9B30"/>
+				<ss:Cell ss:StyleID="wc4546C240">
+					<ss:Data ss:Type="String">$$tag111259976960</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0856C240">
+					<ss:Data ss:Type="String">$$tag110525612093</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC666C240" ss:Formula="=RC[-2]+1.5">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8F76C240" ss:Formula="=RC[-3]-1.5">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc41A6C240" ss:Formula="=IF(RC[-3]&gt;RC[-2],&quot;ПРЕВЫШЕНИЕ&quot;,(IF(RC[-3]&lt;RC[-1],&quot;НЕВЫПОЛНЕНИЕ&quot;,&quot;&quot;)))">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="7.5" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="3" ss:StyleID="Default"/>
+			</ss:Row>
+			<ss:Row ss:Height="18.0" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:MergeAcross="6" ss:StyleID="mcCC1A9B30CC1A9B30">
+					<ss:Data ss:Type="String">Контроль напряжения на шинах 220 кВ</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="3.0" ss:AutoFitHeight="0" ss:StyleID="wc4E3B9B30">
+				<ss:Cell ss:StyleID="wc4E3B9B30"/>
+				<ss:Cell ss:StyleID="wc405B9B30"/>
+				<ss:Cell ss:StyleID="wc405B9B30"/>
+				<ss:Cell ss:StyleID="wc405B9B30"/>
+				<ss:Cell ss:StyleID="wc405B9B30"/>
+				<ss:Cell ss:StyleID="wc405B9B30"/>
+				<ss:Cell ss:StyleID="wc405B9B30"/>
+				<ss:Cell ss:StyleID="wc405B9B30"/>
+				<ss:Cell ss:StyleID="wc4E3B9B30"/>
+				<ss:Cell ss:StyleID="wc4E3B9B30"/>
+			</ss:Row>
+			<ss:Row ss:Height="21.0" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wcC1D6C240"/>
+				<ss:Cell ss:StyleID="wc80E6C240"/>
+				<ss:Cell ss:StyleID="wc80E6C240"/>
+				<ss:Cell ss:MergeAcross="1" ss:StyleID="mcC077C2400187C240">
+					<ss:Data ss:Type="String">Показания телемех.</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7" ss:StyleID="wc4197C240">
+					<ss:Data ss:Type="String">Min</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc00A7C240"/>
+			</ss:Row>
+			<ss:Row ss:Height="3.0" ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="Default"/>
+				<ss:Cell ss:StyleID="Default"/>
+				<ss:Cell ss:StyleID="Default"/>
+				<ss:Cell ss:StyleID="Default"/>
+				<ss:Cell ss:StyleID="wc02B7C240"/>
+				<ss:Cell ss:StyleID="wc02B7C240"/>
+				<ss:Cell ss:StyleID="Default"/>
+				<ss:Cell ss:StyleID="Default"/>
+				<ss:Cell ss:StyleID="Default"/>
+				<ss:Cell ss:StyleID="Default"/>
+			</ss:Row>
+			<ss:Row ss:Height="24.0" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="mc0528C2404538C240">
+					<ss:Data ss:Type="String">1 СШ-220</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="mc48B8C24088C8C240">
+					<ss:Data ss:Type="String">$$tag110525614737</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7" ss:StyleID="wcC8D8C240"/>
+				<ss:Cell ss:StyleID="wc0CE8C240" ss:Formula="=IF(RC[-3]&lt;RC[-1],&quot;ВНИМАНИЕ&quot;,&quot;&quot;)">
+					<ss:Data ss:Type="String"></ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="24.0" ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="Default"/>
+				<ss:Cell ss:MergeAcross="2" ss:StyleID="mc0069C2404079C240">
+					<ss:Data ss:Type="String">2 СШ-220</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="5" ss:MergeAcross="1" ss:StyleID="mc43F9C240830AC240">
+					<ss:Data ss:Type="String">$$tag110525614768</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7" ss:StyleID="wcC31AC240"/>
+				<ss:Cell ss:StyleID="wc072AC240" ss:Formula="=IF(RC[-3]&lt;RC[-1],&quot;ВНИМАНИЕ&quot;,&quot;&quot;)">
+					<ss:Data ss:Type="String"></ss:Data>
+				</ss:Cell>
+			</ss:Row>
+		</ss:Table>
+	</ss:Worksheet>
+	<o:DocumentProperties>
+		<o:Version>10.2625</o:Version>
+	</o:DocumentProperties>
+	<o:OfficeDocumentSettings>
+		<o:DownloadComponents/>
+		<o:LocationOfComponents HRef="file:///G:\Office\MS_FRONT_OFFICE\"/>
+	</o:OfficeDocumentSettings></ss:Workbook>

@@ -1,0 +1,1666 @@
+<?xml version="1.0"?>
+<ss:Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+	<x:ExcelWorkbook>
+		<x:ProtectStructure>False</x:ProtectStructure>
+		<x:ActiveSheet>0</x:ActiveSheet>
+		<x:HideWorkbookTabs/>
+	</x:ExcelWorkbook>
+	<ss:Styles>
+		<ss:Style ss:ID="Default">
+			<ss:Alignment ss:Horizontal="Automatic" ss:Rotate="0.0" ss:Vertical="Bottom" ss:ReadingOrder="Context"/>
+			<ss:Borders>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="Automatic" ss:Bold="0" ss:Italic="0" ss:Underline="None"/>
+			<ss:Interior ss:Color="Automatic" ss:Pattern="None"/>
+			<ss:NumberFormat ss:Format="General"/>
+			<ss:Protection ss:Protected="1"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc49E6AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4007AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCDB7AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCFC7AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="@"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc85F7AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc85A8AB40">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8508AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0BB8AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="@"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0CC8AB40">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8518AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0ED8AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="@"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc005AAB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="9" ss:Color="#000000"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="@"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc016AAB40">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC67AAB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="9" ss:Color="#000000"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="@"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc84AAAB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="@"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc85E7AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc03CCAB40">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc054DAB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="dd/mmm"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8D5DAB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="dd/mmm"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc8A7DAB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+			<ss:Interior/>
+			<ss:NumberFormat ss:Format="dd/mmm"/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC12FAB40">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc453FAB40">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC44FAB40">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc895FAB40">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcC96FAB40">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wcCB8FAB40">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="wc0C9FAB40">
+			<ss:Alignment/>
+			<ss:Borders>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mcC51AAB40C53AAB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1" ss:Italic="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mc8269AB408269AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="16" ss:Color="#000000"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mc0378AB40000000000388AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mcCD87AB40CDA7AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Borders>
+				<ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+				<ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1.0"/>
+			</ss:Borders>
+			<ss:Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1" ss:Italic="1"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mc49D6AB4049D6AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+			<ss:Font ss:FontName="Calibri" ss:Size="16" ss:Color="#000000"/>
+			<ss:Interior/>
+		</ss:Style>
+		<ss:Style ss:ID="mcC575AB40C575AB40">
+			<ss:Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+			<ss:Font ss:FontName="Calibri" ss:Size="20" ss:Color="#000000" ss:Bold="1"/>
+			<ss:Interior/>
+		</ss:Style>
+	</ss:Styles>
+	<c:ComponentOptions>
+		<c:Label>
+			<c:Caption>Электронная таблица Microsoft Office</c:Caption>
+		</c:Label>
+		<c:SpreadsheetAutoFit/>
+		<c:MaxHeight>499</c:MaxHeight>
+		<c:MaxWidth>1020</c:MaxWidth>
+		<c:NextSheetNumber>4</c:NextSheetNumber>
+	</c:ComponentOptions>
+	<x:WorkbookOptions>
+		<c:OWCVersion>10.0.0.6619         </c:OWCVersion>
+	</x:WorkbookOptions>
+	<ss:Worksheet ss:Name="Данные">
+		<x:WorksheetOptions>
+			<x:Selected/>
+			<x:ViewableRange>R1:R262144</x:ViewableRange>
+			<x:Selection>R80C7</x:Selection>
+			<x:TopRowVisible>69</x:TopRowVisible>
+			<x:LeftColumnVisible>0</x:LeftColumnVisible>
+			<x:ProtectContents>False</x:ProtectContents>
+			<x:Unsynced/>
+		</x:WorksheetOptions>
+		<c:WorksheetOptions>
+		</c:WorksheetOptions>
+		<ss:Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="95" ss:DefaultColumnWidth="48.0" ss:DefaultRowHeight="12.75">
+			<ss:Column ss:Width="36.0" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="206.25" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="56.25" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Index="5" ss:Width="168.75" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="118.5" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="71.25" ss:AutoFitWidth="0"/>
+			<ss:Row ss:Height="25.5" ss:AutoFitHeight="0">
+				<ss:Cell ss:MergeAcross="6" ss:StyleID="mcC575AB40C575AB40">
+					<ss:Data ss:Type="String">Ведомость останова энергоблока</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="18.75" ss:AutoFitHeight="0">
+				<ss:Cell ss:MergeAcross="6" ss:StyleID="mc49D6AB4049D6AB40">
+					<ss:Data ss:Type="String">1. Выдерживание критериев надежности</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="15.0" ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc49E6AB40">
+					<ss:Data ss:Type="String">№</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc49E6AB40">
+					<ss:Data ss:Type="String">Основные критерии оценки</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc49E6AB40">
+					<ss:Data ss:Type="String">Размер-</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc49E6AB40">
+					<ss:Data ss:Type="String">№ этапа</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc49E6AB40">
+					<ss:Data ss:Type="String">Нормативное </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc49E6AB40">
+					<ss:Data ss:Type="String">Фактическое</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc49E6AB40">
+					<ss:Data ss:Type="String">Оценки</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="15.0" ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc4007AB40">
+					<ss:Data ss:Type="String"> п\п</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4007AB40">
+					<ss:Data ss:Type="String"> качества пуска энергоблока</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4007AB40">
+					<ss:Data ss:Type="String">ность</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4007AB40"/>
+				<ss:Cell ss:StyleID="wc4007AB40">
+					<ss:Data ss:Type="String">значение</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4007AB40">
+					<ss:Data ss:Type="String"> значение</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4007AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:MergeAcross="6" ss:StyleID="mcCD87AB40CDA7AB40">
+					<ss:Data ss:Type="String">1. Показатели турбоагрегата</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wcCDB7AB40">
+					<ss:Data ss:Type="Number">1</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCDB7AB40">
+					<ss:Data ss:Type="String">Относительное положени РВД</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCDB7AB40">
+					<ss:Data ss:Type="String">мм</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCFC7AB40">
+					<ss:Data ss:Type="String">3-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCFC7AB40">
+					<ss:Data ss:Type="String">-1,2 - +4,0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:MergeDown="1" ss:StyleID="mc0378AB40000000000388AB40">
+					<ss:Data ss:Type="String">Вручную</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCDB7AB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wcCDB7AB40">
+					<ss:Data ss:Type="Number">2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCDB7AB40">
+					<ss:Data ss:Type="String">Относительное положени РСД</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCDB7AB40">
+					<ss:Data ss:Type="String">мм</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCFC7AB40">
+					<ss:Data ss:Type="String">3-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcCFC7AB40">
+					<ss:Data ss:Type="String">-2,5 - +3,0</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7" ss:StyleID="wcCDB7AB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:MergeAcross="6" ss:StyleID="mcCD87AB40CDA7AB40">
+					<ss:Data ss:Type="String">2. Показатели котлоагрегата</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">3</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Суммарное время превышения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">допустимой разности температур </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">1-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="Number">10</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0CC8AB40">
+					<ss:Data ss:Type="String">$$tagocenka1_3</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">металла "верх-низ" барабана котла</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">4</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Суммарное время превышения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">допустимой скорости изменения</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">2-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">2 °C/мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0CC8AB40">
+					<ss:Data ss:Type="String">$$tagocenka1_4</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String"> температуры нижней </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">образующей барабана котла</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Суммарное время превышения</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String"> допустимой скорости изменения</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">2-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">2 °C/мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0CC8AB40">
+					<ss:Data ss:Type="String">$$tagocenka1_5</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String"> температуры насыщения в </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">барабане котла - скорости пуска</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:MergeAcross="6" ss:StyleID="mc8269AB408269AB40">
+					<ss:Data ss:Type="String">2. Выдерживание дополнительных критериев надежности</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc49E6AB40">
+					<ss:Data ss:Type="String">№</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc49E6AB40">
+					<ss:Data ss:Type="String">Основные критерии оценки</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc49E6AB40">
+					<ss:Data ss:Type="String">Размер-</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc49E6AB40">
+					<ss:Data ss:Type="String">№ этапа</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc49E6AB40">
+					<ss:Data ss:Type="String">Нормативное </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc49E6AB40">
+					<ss:Data ss:Type="String">Фактическое</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc49E6AB40">
+					<ss:Data ss:Type="String">Оценки</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc4007AB40">
+					<ss:Data ss:Type="String"> п\п</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4007AB40">
+					<ss:Data ss:Type="String"> качества пуска энергоблока</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4007AB40">
+					<ss:Data ss:Type="String">ность</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4007AB40"/>
+				<ss:Cell ss:StyleID="wc4007AB40">
+					<ss:Data ss:Type="String">значение</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4007AB40">
+					<ss:Data ss:Type="String"> значение</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4007AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:MergeAcross="6" ss:StyleID="mcC51AAB40C53AAB40">
+					<ss:Data ss:Type="String">1. Показатели турбоагрегата</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="13.5" ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">1</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Суммарное время превышения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+			</ss:Row>
+			<ss:Row ss:Height="13.5" ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">допустимой скорости изменения</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">4-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc005AAB40">
+					<ss:Data ss:Type="String">2,0 °C/мин до 500; </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">$$tagocenka2_1</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:Height="13.5" ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String"> температуры свежего пара </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc005AAB40">
+					<ss:Data ss:Type="String">1,0 °C/мин выше 500</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+			</ss:Row>
+			<ss:Row ss:Height="13.5" ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">перед турбиной</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wcC67AAB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">2</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Суммарное время превышения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:Index="6" ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">допустимой скорости изменения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">4-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc005AAB40">
+					<ss:Data ss:Type="String">0,7 °C/мин до 520; </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">$$tagocenka2_2</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">температуры вторично перегретого</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc005AAB40">
+					<ss:Data ss:Type="String">0,3 °C/мин выше 520</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String"> пара перед турбиной</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wcC67AAB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">3</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Суммарное время превышения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc84AAAB40"/>
+				<ss:Cell ss:StyleID="wc005AAB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">допустимых разностей температур </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">3-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">55°С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">верхний фланец</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0CC8AB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">по ширине фланцев ЦВД</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc016AAB40"/>
+				<ss:Cell ss:StyleID="wc016AAB40"/>
+				<ss:Cell ss:Index="6" ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">нижний фланец</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0CC8AB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc03CCAB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">4</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Суммарное время превышения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">допустимых разностей температур </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">3-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">50°С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">поверхности фланца и  </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">температуры верха (низа) ЦВД</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Суммарное время превышения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">допустимых разностей температур</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">3-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">50°С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">верхний фланец</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0CC8AB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String"> по ширине фланцев ЦСД</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">нижний фланец</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0CC8AB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">6</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Суммарное время превышения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">допустимых разностей температуры </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">3-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">50°С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">поверхности фланца и </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">температуры верха (низа) ЦСД</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">7</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Вибрация подшипниковых </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">мм/с</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">4.5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">опор турбоагрегата</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:MergeAcross="6" ss:StyleID="mcC51AAB40C53AAB40">
+					<ss:Data ss:Type="String">2. Показатели котлоагрегата</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">8</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Длительное, в течение 10 мин.,</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Регистрируется уровень в барабане котла каждую минуту hi. Определяются множество параметров                                                                                                                                                                                                                                                                                                                                 Определяется максимальное значение по модулю Timax </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String"> отклонение уровня в барабане </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">мм</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">2-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">±50</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">$$tagocenka2_8</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">котла от режимного</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc03CCAB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">9</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Длительное, в течение 10 мин., </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">отклонение от допустимой </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">%</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">2-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">60°С</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">$$tagocenka2_9</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">температуры воздуха </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">за калориферами котла</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">10</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Суммарное время превышения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc054DAB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">допустимой скорости изменения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">4-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc005AAB40">
+					<ss:Data ss:Type="String">2,0 °C/мин до 500; </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8D5DAB40"/>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">температуры металла выходных </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc005AAB40">
+					<ss:Data ss:Type="String">1,0 °C/мин выше 500</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8D5DAB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">коллекторов котла ВД</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wcC67AAB40"/>
+				<ss:Cell ss:StyleID="wc8A7DAB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">11</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Суммарное время превышения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">допустимой скорости изменения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">4-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc005AAB40">
+					<ss:Data ss:Type="String">0,7 °C/мин до 520; </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">температуры металла выходных</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc005AAB40">
+					<ss:Data ss:Type="String">0,3 °C/мин выше 520</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String"> коллекторов котла НД</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wcC67AAB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">12</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Суммарное время превышения</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String"> допустимой скорости изменения</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">4-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc005AAB40">
+					<ss:Data ss:Type="String">2,0 °C/мин до 500;</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">н.А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String"> температуры металла </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc005AAB40">
+					<ss:Data ss:Type="String"> 1,0 °C/мин выше 500</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">н.Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">главных паропроводов</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wcC67AAB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">13</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Суммарное время превышения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">допустимой скорости изменения </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">мин</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">4-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc005AAB40">
+					<ss:Data ss:Type="String">0,7 °C/мин до 520; </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">н.А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">температуры металла паропроводов</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc005AAB40">
+					<ss:Data ss:Type="String">0,3 °C/мин выше 520</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">н.Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String"> горячего промперегрева</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wcC67AAB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">14</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Резкий прогрев или </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">захолаживание на 100 0С и </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">раза</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">2-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">н.А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">более температуры металла </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">н.Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">выходных коллекторов ВД</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">15</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Резкий прогрев или </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">захолаживание на 100 0С и </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">раза</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">3-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">н.А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">более температуры металла </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">н.Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">выходных коллекторов НД </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">16</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Резкий прогрев или </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">захолаживание на 100 0С и </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">раза</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">2-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">н.А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">более температуры металла </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">н.Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">главных паропроводов</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="Number">17</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85F7AB40">
+					<ss:Data ss:Type="String">Резкий прогрев или </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85A8AB40"/>
+				<ss:Cell ss:StyleID="wc85F7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">захолаживание на 100 0С и </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">раза</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc0BB8AB40">
+					<ss:Data ss:Type="String">3-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">н.А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40">
+					<ss:Data ss:Type="String">более температуры металла </ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc0BB8AB40"/>
+				<ss:Cell ss:StyleID="wc8508AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">н.Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">None</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40">
+					<ss:Data ss:Type="String">паропроводов горячего промперегрева</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc0ED8AB40"/>
+				<ss:Cell ss:StyleID="wc8518AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="Number">18</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85E7AB40">
+					<ss:Data ss:Type="String">Общая оценка</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc85E7AB40"/>
+				<ss:Cell ss:StyleID="wc016AAB40">
+					<ss:Data ss:Type="String">$$tagocenka</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wcC12FAB40"/>
+				<ss:Cell ss:StyleID="wcC12FAB40"/>
+				<ss:Cell ss:StyleID="wcC12FAB40"/>
+				<ss:Cell ss:StyleID="wcC12FAB40"/>
+				<ss:Cell ss:StyleID="wcC12FAB40"/>
+				<ss:Cell ss:StyleID="wcC12FAB40"/>
+				<ss:Cell ss:StyleID="wcC12FAB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc453FAB40">
+					<ss:Data ss:Type="String">Примечание:</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC44FAB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc895FAB40">
+					<ss:Data ss:Type="String">1.Оценка None - отсутствует тег</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC96FAB40"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wc895FAB40">
+					<ss:Data ss:Type="String">2. Параметры "Вручную" не активны</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wcC96FAB40"/>
+				<ss:Cell ss:StyleID="Default"/>
+				<ss:Cell ss:StyleID="Default"/>
+				<ss:Cell ss:StyleID="Default"/>
+				<ss:Cell ss:StyleID="Default"/>
+				<ss:Cell ss:StyleID="Default"/>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:StyleID="wcCB8FAB40"/>
+				<ss:Cell ss:StyleID="wc0C9FAB40"/>
+			</ss:Row>
+		</ss:Table>
+	</ss:Worksheet>
+	<o:DocumentProperties>
+		<o:Version>10.2625</o:Version>
+	</o:DocumentProperties>
+	<o:OfficeDocumentSettings>
+		<o:DownloadComponents/>
+		<o:LocationOfComponents HRef="file:///G:\Office\MS_FRONT_OFFICE\"/>
+	</o:OfficeDocumentSettings></ss:Workbook>

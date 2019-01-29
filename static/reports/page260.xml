@@ -1,0 +1,1747 @@
+<?xml version="1.0"?>
+<ss:Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+	<x:ExcelWorkbook>
+		<x:ProtectStructure>False</x:ProtectStructure>
+		<x:ActiveSheet>0</x:ActiveSheet>
+		<x:HideWorkbookTabs/>
+	</x:ExcelWorkbook>
+	<ss:Styles>
+		<ss:Style ss:ID="Default">
+			<ss:Alignment ss:Horizontal="Automatic" ss:Rotate="0.0" ss:Vertical="Bottom" ss:ReadingOrder="Context"/>
+			<ss:Borders>
+			</ss:Borders>
+			<ss:Font ss:FontName="Arial Cyr" ss:Size="10" ss:Color="Automatic" ss:Bold="0" ss:Italic="0" ss:Underline="None"/>
+			<ss:Interior ss:Color="Automatic" ss:Pattern="None"/>
+			<ss:NumberFormat ss:Format="General"/>
+			<ss:Protection ss:Protected="1"/>
+		</ss:Style>
+		<ss:Style ss:ID="wc4C776820">
+			<ss:Alignment ss:Vertical="Bottom"/>
+			<ss:Font ss:FontName="Arial Cyr" ss:Bold="1"/>
+			<ss:Interior/>
+		</ss:Style>
+	</ss:Styles>
+	<c:ComponentOptions>
+		<c:Label>
+			<c:Caption>Электронная таблица Microsoft Office</c:Caption>
+		</c:Label>
+		<c:SpreadsheetAutoFit/>
+		<c:MaxHeight>587</c:MaxHeight>
+		<c:MaxWidth>1148</c:MaxWidth>
+		<c:NextSheetNumber>4</c:NextSheetNumber>
+	</c:ComponentOptions>
+	<x:WorkbookOptions>
+		<c:OWCVersion>10.0.0.5605         </c:OWCVersion>
+	</x:WorkbookOptions>
+	<ss:Worksheet ss:Name="Данные">
+		<x:WorksheetOptions>
+			<x:Selected/>
+			<x:ViewableRange>R1:R262144</x:ViewableRange>
+			<x:Selection>R9C4</x:Selection>
+			<x:TopRowVisible>0</x:TopRowVisible>
+			<x:LeftColumnVisible>0</x:LeftColumnVisible>
+			<x:ProtectContents>False</x:ProtectContents>
+			<x:Unsynced/>
+		</x:WorksheetOptions>
+		<c:WorksheetOptions>
+		</c:WorksheetOptions>
+		<ss:Table ss:ExpandedColumnCount="20" ss:ExpandedRowCount="40" ss:DefaultColumnWidth="48.0" ss:DefaultRowHeight="12.75">
+			<ss:Column ss:Index="2" ss:Width="101.25" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="69.0" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Index="5" ss:Width="66.0" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Width="63.0" ss:AutoFitWidth="0"/>
+			<ss:Column ss:Index="8" ss:Width="94.5" ss:AutoFitWidth="0"/>
+			<ss:Row ss:Index="2" ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2" ss:StyleID="wc4C776820">
+					<ss:Data ss:Type="String">1А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4C776820"/>
+				<ss:Cell ss:StyleID="wc4C776820"/>
+				<ss:Cell ss:StyleID="wc4C776820">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4C776820"/>
+				<ss:Cell ss:StyleID="wc4C776820">
+					<ss:Data ss:Type="String">1Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4C776820"/>
+				<ss:Cell ss:StyleID="wc4C776820"/>
+				<ss:Cell ss:StyleID="wc4C776820">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4C776820"/>
+				<ss:Cell ss:StyleID="wc4C776820">
+					<ss:Data ss:Type="String">2А</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4C776820"/>
+				<ss:Cell ss:StyleID="wc4C776820"/>
+				<ss:Cell ss:StyleID="wc4C776820">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4C776820"/>
+				<ss:Cell ss:StyleID="wc4C776820">
+					<ss:Data ss:Type="String">2Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:StyleID="wc4C776820"/>
+				<ss:Cell ss:StyleID="wc4C776820"/>
+				<ss:Cell ss:StyleID="wc4C776820">
+					<ss:Data ss:Type="String">кВт</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">раб. ввод 1А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag116910438153[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag116910438153[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">раб.ввод секц. 1Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309012039[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309012039[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">раб.ввод секц. 2А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118069079189[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118069079189[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">раб.ввод секц. 2Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118069079898[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118069079898[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">рез. ввод секц.1А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117091042871[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117091042871[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">рез. ввод секц.1Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309009118[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309009118[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">рез. ввод секц. 2A</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118069078435[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118069078435[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">рез. ввод секц. 2Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118069080664[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118069080664[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">БНС ф.119</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308975600[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308975600[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">21Т БВС</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308888704[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308888704[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">ЦН-2А 2 ск.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068597214[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068597214[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">117Т РУ</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068607787[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068607787[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">ЦН-1А 1 ск.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308804506[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308804506[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">82Т КНС-2</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308889498[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308889498[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">115Т РУ</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068607020[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068607020[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">ЦН-2Б 2ск.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068607787[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068607787[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">ЦН-1А 2 ск.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308662554[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308662554[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">СН-1</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308887173[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308887173[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">20Т БВС</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068600003[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068600003[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">116Т РУ</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068608589[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068608589[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">31Т соб. Нужд</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308814906[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308814906[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">32Т соб. Нужд</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309012914[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309012914[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">52ТА</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068600792[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068600792[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">52ТБ</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068602437[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068602437[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">22Т БВС</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308830306[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308830306[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">НГЗУ-2</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308890225[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308890225[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">СН-5</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068609460[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068609460[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">НГЗУ-3</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068831187[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068831187[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">113Т РУ</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308671359[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308671359[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">111Т ВО</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308887895[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308887895[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">БН-2</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118283086093[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118283086093[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">76Т ППНС</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068603223[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068603223[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">75Т ППНС</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308676556[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308676556[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">84Т компрессорная</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309042806[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309042806[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">СН-3</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068610901[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068610901[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">30Т Собст. Нужд</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068603946[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068603946[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">83Т компрессорн</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308882281[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308882281[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">ЛК-1А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308892935[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308892935[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">ЛК-1Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068908126[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068908126[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">НГО-2Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068832050[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068832050[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">73Т ММХ</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308882856[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308882856[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">50Т2</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308890879[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308890879[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">КН-2А 1ст.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068611703[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068611703[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">ЛК-6/2Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068832901[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068832901[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">41Т ХВО</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308883596[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308883596[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">51ТБ</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308891593[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308891593[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">КН-2А 2ст.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068612542[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068612542[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">КН-2В 2ст.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068833743[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068833743[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">НКП-3</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308915504[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308915504[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">102Т эл.фильтр</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309045610[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309045610[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">НГО-2А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068613304[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068613304[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">КН-2Б 2ст.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068834560[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068834560[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">НГЗУ-1</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308916343[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308916343[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">Д-1Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309102092[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309102092[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">ПНЭ-2А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068614003[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068614003[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">КН-2Б 1ст.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068835370[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068835370[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">43Т ЦРМ</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308884289[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308884289[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">ПМН-1</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309102732[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309102732[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">МВ-2В</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068614770[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068614770[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">61Т ТТЦ</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068604748[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068604748[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">МД-2</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308701906[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308701906[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">НКП-2</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309103426[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309103426[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">МВ-2А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068615582[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068615582[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">СН-4</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068836182[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068836182[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">МД-1</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308916975[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308916975[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">ДВ-1Б 1ск.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309104089[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309104089[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">МВ-2Д</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068616393[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068616393[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">ПНЭ-2Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068836937[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068836937[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">ЛК 3/2А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308726595[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308726595[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">ДВ-1Б 2ск.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309104837[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309104837[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">ДРГ-2А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068617248[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068617248[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">МВ-2Г</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068837756[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068837756[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">ЛК 6/2А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308762079[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308762079[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">МВ-1Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309105612[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309105612[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">ДВ-2А 1ск.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068617903[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068617903[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">МВ-2Е</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068839050[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068839050[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">СН-2</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308917804[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308917804[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">МВ-1Е</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309112939[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309112939[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">ПОК</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068849450[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068849450[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">МВ-2Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068839804[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068839804[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">101Т эл.фил.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308885156[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308885156[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">КН-1В 2ст.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309106607[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309106607[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">БНС ф.255</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068618853[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068618853[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">ДРГ-2Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068840710[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068840710[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">Д-1А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308918575[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308918575[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">МВ-1Г</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309107481[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309107481[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">ПЭН-2А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068619604[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068619604[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*8200)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">ДВ-2Б 2ск.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068841529[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068841529[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">ДВ-1А 1 ск.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308940820[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308940820[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">ПЭН-1Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309108339[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309108339[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*8200)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">Д-2А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068620431[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068620431[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">ДВ-2Б 1ск.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068842782[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068842782[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">ДВ-1А 2 ск.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308941600[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308941600[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">ПНЭ-1Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309108931[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309108931[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">ДВ-2А 2ск.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068621262[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068621262[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">ДС-2Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068843425[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068843425[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">МВ-1В</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308942353[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308942353[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">КН-1Б 1ст.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309109720[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309109720[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">ПМН-2</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068621912[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068621912[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">ПЭН-2Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068844521[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068844521[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*8200)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">МВ-1А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308943235[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308943235[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">КН-1Б 2ст.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309044915[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309044915[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">201Т эл.фильтр</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068622706[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068622706[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">112Т ВО</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068605518[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068605518[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">МВ-1Д</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308943804[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308943804[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">ЛК - 5/1</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308976882[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308976882[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">МД-3</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068623520[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068623520[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">202Т эл.фильтр</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068606301[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068606301[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">ПЭН-1А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308944503[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308944503[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*8200)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">БН-3</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308886625[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308886625[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="12">
+					<ss:Data ss:Type="String">ЛК-3/2Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068624373[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068624373[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">МД-4</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068844890[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068844890[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">ПНЭ-1А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308958943[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308958943[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">62Т ТТЦ</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309111270[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309111270[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="17">
+					<ss:Data ss:Type="String">42Т ХВО</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068601621[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag118068601621[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">КН-1А 2 ст.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308959795[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308959795[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">114Т </ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309009725[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309009725[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">КН-1А 1ст.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308959626[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308959626[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">ДРГ-1Б</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309011564[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309011564[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">51ТА</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308885809[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308885809[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">СН-8</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308892306[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308892306[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">ДРГ-1А</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308974614[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308974614[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">40Т ХВО</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309043576[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309043576[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">ПОК</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308974857[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308974857[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">ЦН-1Б 1 ск.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309044276[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309044276[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">СН-7</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308685850[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308685850[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">ЦН-1Б 2 ск.</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309010717[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309010717[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">60T</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308708317[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308708317[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Index="7">
+					<ss:Data ss:Type="String">СН-6</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308693373[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308693373[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">НОВ</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308830087[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117308830087[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+			<ss:Row ss:AutoFitHeight="0">
+				<ss:Cell ss:Index="2">
+					<ss:Data ss:Type="String">БН-1</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309110517[dl:style='table'sd:type='a']</ss:Data>
+				</ss:Cell>
+				<ss:Cell>
+					<ss:Data ss:Type="String">$$tag117309110517[dl:style='table']</ss:Data>
+				</ss:Cell>
+				<ss:Cell ss:Formula="=IF(RC[-2]=&quot;&quot;,&quot;&quot;,(RC[-1]-RC[-2])*2*3600)">
+					<ss:Data ss:Type="Error">#VALUE!</ss:Data>
+				</ss:Cell>
+			</ss:Row>
+		</ss:Table>
+	</ss:Worksheet>
+	<o:DocumentProperties>
+		<o:Version>10.2625</o:Version>
+	</o:DocumentProperties>
+	<o:OfficeDocumentSettings>
+		<o:DownloadComponents/>
+		<o:LocationOfComponents HRef="file:///G:\Office\MS_FRONT_OFFICE\"/>
+	</o:OfficeDocumentSettings></ss:Workbook>
