@@ -447,7 +447,7 @@ class ASSTIBRIDGE(object):
         for currentNode in s_nodes:
             s_tag_id = currentNode.get("tagID")
             queryAddon = ""  # "".join([" and @%s='%s'" % (k.replace(sd_ns, ""), v) for k, v in currentNode.attrib.items() if sd_ns in k  and SD_NAME not in k])
-            xpath = "object[id='%s'%s][1]/value/text()" % (s_tag_id, queryAddon)
+            xpath = "object[@id='%s'%s][1]/value/text()" % (s_tag_id, queryAddon)
             s_row = int(currentNode.get(DL_FULLROWINDEX))
             s_cell = int(currentNode.get(DL_FULLCELLINDEX))
             yield Storage(tag=s_tag_id, xpath=xpath, row=s_row, cell=s_cell, )
